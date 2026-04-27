@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 import plotly.express as px
 
 st.title('Afghanistan Natural Disaster Dashboard 2024')
@@ -19,13 +20,13 @@ def load_data():
     data['date'] = pd.to_datetime(data['date'], dayfirst=True)
     data['month'] = data['date'].dt.month_name()
     return data
-
+    
 data_load_state = st.text('Loading data...')
 data = load_data()
 data_load_state.text('Done! (using st.cache_data)')
 
 st.header('Analysing Natural Disaster Incidents Across Afghanistan')
-st.markdown('This dashboard presents key insights from the Afghanistan Natural Disaster Incidents dataset January to December 2024 sourced from the Humanitarian Data Exchange HDX.')
+st.markdown('This dashboard presents key insights from the Afghanistan Natural Disaster Incidents dataset January to December 2024 sourced from the Humanitarian Data Exchange HDX. Designed for high level decision makers finance professionals and technology experts attending a global sustainability conference.')
 
 st.sidebar.title('Dashboard Filters')
 st.sidebar.markdown('Use the filters below to explore the data.')
