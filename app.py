@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import plotly.express as px
 
 st.title('Afghanistan Natural Disaster Dashboard 2024')
 
