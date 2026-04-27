@@ -1,0 +1,917 @@
+REGION,PROV_CODE,PROV_NAME,DIST_CODE,DIST_NAME,INC_DATE,INC_TYPE,Persons_killed,Persons_injured,Families_affected,Individuals_affected,Houses_damaged,Houses_destroyed
+#adm1 +name +en,#adm2 +code,#adm2 +name +en,#adm3 +code,#adm3 +name +en,#cause +date,#cause +type,#affected +killed +num,#affected +injured +num,#affected +families +num,#affected +individuals +num,#damaged+houses+num,#destroyed+houses+num
+Eastern,6,Nangarhar,615,Batikot,10-01-2024,Earthquake,1,0,2,13,0,1
+Eastern,6,Nangarhar,604,Khogyani,10-01-2024,Earthquake,0,0,1,10,0,0
+Eastern,13,Kunar,1311,Barkunar,11-01-2024,Earthquake,8,0,4,30,4,0
+Eastern,13,Kunar,1309,Khaskunar,15-01-2024,Earthquake,0,0,2,18,0,0
+Eastern,13,Kunar,1307,Dara-e-Pech,15-01-2024,Earthquake,0,0,8,77,0,0
+Northern,18,Balkh,1802,Nahr-e-Shahi,03-02-2024,Heavy snowfall,0,0,3,21,3,0
+North Eastern,16,Takhar,1616,Warsaj,10-02-2024,Earthquake,0,0,1,7,0,1
+North Eastern,16,Takhar,1607,Farkhar,10-02-2024,Earthquake,0,0,4,28,2,2
+Eastern,6,Nangarhar,601,Jalalabad,15-02-2024,Flood / flash flood,0,1,3,21,0,0
+Eastern,6,Nangarhar,605,Chaparhar,15-02-2024,Flood / flash flood,0,0,1,6,0,0
+Eastern,6,Nangarhar,615,Batikot,15-02-2024,Flood / flash flood,0,0,2,12,0,0
+Eastern,6,Nangarhar,614,Kot,15-02-2024,Flood / flash flood,1,0,1,10,0,0
+Eastern,6,Nangarhar,606,Rodat,15-02-2024,Flood / flash flood,0,0,1,2,0,0
+Eastern,6,Nangarhar,617,Achin,15-02-2024,Flood / flash flood,0,0,3,25,0,0
+Eastern,6,Nangarhar,605,Chaparhar,15-02-2024,Flood / flash flood,0,0,1,8,0,0
+Eastern,6,Nangarhar,618,Shinwar,15-02-2024,Flood / flash flood,0,0,7,58,0,1
+Eastern,6,Nangarhar,608,Kuzkunar,15-02-2024,Flood / flash flood,0,0,3,21,0,0
+Eastern,6,Nangarhar,609,Dara-e-Nur,15-02-2024,Flood / flash flood,0,0,1,9,0,0
+Eastern,6,Nangarhar,607,Kama,15-02-2024,Flood / flash flood,0,0,3,28,0,0
+North Eastern,15,Badakhshan,1501,Fayzabad,17-02-2024,Heavy snowfall,0,0,18,126,18,2
+North Eastern,15,Badakhshan,1512,Baharak,17-02-2024,Heavy snowfall,0,0,11,77,10,1
+North Eastern,15,Badakhshan,1521,Jorm,17-02-2024,Heavy snowfall,0,0,3,21,2,1
+North Eastern,17,Kunduz,1706,Khanabad,18-02-2024,Flood / flash flood,0,0,1,7,1,0
+North Eastern,17,Kunduz,1701,Kunduz,18-02-2024,Flood / flash flood,0,0,2,14,0,2
+Northern,18,Balkh,1802,Nahr-e-Shahi,18-02-2024,Earthquake,0,0,3,21,3,0
+Northern,18,Balkh,1813,Chemtal,18-02-2024,Earthquake,0,0,5,35,5,0
+Northern,18,Balkh,1813,Chemtal,18-02-2024,Earthquake,0,0,3,21,3,0
+Eastern,14,Nuristan,1404,Nurgeram,19-02-2024,Landslide / mudflow,21,3,221,1557,0,48
+Eastern,13,Kunar,1301,Asadabad,19-02-2024,Flood / flash flood,0,2,23,168,0,4
+Eastern,13,Kunar,1313,Chapadara,19-02-2024,Flood / flash flood,0,0,10,73,0,0
+Eastern,13,Kunar,1307,Dara-e-Pech,19-02-2024,Flood / flash flood,2,0,15,136,0,6
+Eastern,13,Kunar,1305,Marawara,19-02-2024,Flood / flash flood,0,0,3,24,0,3
+Eastern,13,Kunar,1315,Nari,19-02-2024,Flood / flash flood,0,2,36,280,0,2
+Northern,18,Balkh,1802,Nahr-e-Shahi,23-02-2024,Flood / flash flood,0,0,2,14,2,0
+Southern,33,Kandahar,3301,Kandahar,27-02-2024,Flood / flash flood,2,4,348,2436,298,50
+Southern,32,Hilmand,3202,Nahr-e-Saraj,29-02-2024,Flood / flash flood,0,0,12,80,10,2
+Southern,32,Hilmand,3204,Nawa-e-Barakzaiy,29-02-2024,Flood / flash flood,4,0,6,42,5,1
+Southern,32,Hilmand,3203,Nad-e-Ali,29-02-2024,Flood / flash flood,0,4,17,121,17,0
+Southern,32,Hilmand,3210,Kajaki,29-02-2024,Flood / flash flood,1,1,1,4,1,0
+Southern,32,Hilmand,3205,Sangin,29-02-2024,Flood / flash flood,0,0,1,7,1,0
+Southern,32,Hilmand,3201,Lashkargah,29-02-2024,Flood / flash flood,0,5,22,153,15,7
+Northern,18,Balkh,1815,Keshendeh,01-03-2024,Heavy snowfall,0,0,139,973,127,11
+Northern,18,Balkh,1801,Mazar-e-Sharif,01-03-2024,Heavy snowfall,0,0,9,63,9,0
+Southern,33,Kandahar,3301,Kandahar,01-03-2024,Flood / flash flood,0,0,14,102,14,0
+Northern,18,Balkh,1814,Sholgareh,01-03-2024,Heavy snowfall,0,0,10,70,10,0
+Northern,18,Balkh,1805,Balkh,01-03-2024,Heavy snowfall,0,0,1,7,1,0
+South Eastern,12,Paktya,1206,Zadran,01-03-2024,Heavy snowfall,0,0,4,28,4,0
+South Eastern,12,Paktya,1202,Sayedkaram,01-03-2024,Heavy snowfall,0,0,2,14,2,0
+South Eastern,12,Paktya,1207,Lija Ahmad Khel,01-03-2024,Heavy snowfall,0,0,4,28,4,0
+South Eastern,12,Paktya,1201,Gardez,01-03-2024,Heavy snowfall,0,0,9,63,9,0
+South Eastern,12,Paktya,1209,Janikhel,01-03-2024,Heavy snowfall,0,0,5,35,5,0
+Eastern,13,Kunar,1304,Sarkani,02-03-2024,Flood / flash flood,0,0,18,174,0,0
+Eastern,13,Kunar,1305,Marawara,02-03-2024,Flood / flash flood,0,0,4,22,0,2
+Eastern,13,Kunar,1311,Barkunar,02-03-2024,Flood / flash flood,0,0,19,127,0,4
+Eastern,13,Kunar,1312,Ghaziabad,02-03-2024,Flood / flash flood,0,0,13,115,0,2
+Eastern,13,Kunar,1302,Watapur,02-03-2024,Flood / flash flood,0,0,29,223,0,6
+Southern,24,Zabul,2401,Qalat,02-03-2024,Flood / flash flood,0,0,8,56,8,0
+Eastern,13,Kunar,1311,Barkunar,03-03-2024,Flood / flash flood,0,0,17,142,16,2
+Eastern,13,Kunar,1308,Chawkay,03-03-2024,Flood / flash flood,0,0,12,61,12,0
+Eastern,13,Kunar,1302,Watapur,03-03-2024,Flood / flash flood,0,0,36,230,30,6
+Eastern,13,Kunar,1314,Nurgal,03-03-2024,Flood / flash flood,1,5,13,85,10,3
+Eastern,13,Kunar,1303,Narang,03-03-2024,Flood / flash flood,0,0,15,111,13,2
+Eastern,13,Kunar,1301,Asadabad,03-03-2024,Flood / flash flood,0,0,33,204,32,1
+Eastern,13,Kunar,1305,Marawara,03-03-2024,Flood / flash flood,0,0,22,155,22,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,03-03-2024,Flood / flash flood,0,0,50,362,45,0
+Eastern,13,Kunar,1315,Nari,03-03-2024,Flood / flash flood,0,0,30,151,29,1
+Eastern,13,Kunar,1302,Watapur,03-03-2024,Flood / flash flood,0,0,28,196,29,0
+Eastern,13,Kunar,1308,Chawkay,03-03-2024,Flood / flash flood,0,0,18,126,18,0
+North Eastern,17,Kunduz,1701,Kunduz,03-03-2024,Flood / flash flood,0,0,5,35,5,0
+North Eastern,17,Kunduz,1706,Khanabad,03-03-2024,Flood / flash flood,0,0,2,14,2,0
+Eastern,13,Kunar,1304,Sarkani,03-03-2024,Flood / flash flood,0,0,10,56,10,0
+Eastern,13,Kunar,1313,Chapadara,03-03-2024,Flood / flash flood,3,0,42,299,39,3
+Eastern,6,Nangarhar,610,Hesarak,03-03-2024,Flood / flash flood,0,0,2,18,2,0
+Eastern,6,Nangarhar,616,Goshta,03-03-2024,Flood / flash flood,0,0,6,35,3,0
+Eastern,6,Nangarhar,601,Jalalabad,03-03-2024,Flood / flash flood,0,0,20,93,6,0
+Eastern,6,Nangarhar,609,Dara-e-Nur,03-03-2024,Flood / flash flood,0,0,5,43,3,2
+Eastern,6,Nangarhar,604,Khogyani,03-03-2024,Flood / flash flood,0,0,2,15,2,0
+Eastern,6,Nangarhar,602,Behsud,03-03-2024,Flood / flash flood,0,0,3,26,3,0
+Eastern,6,Nangarhar,608,Kuzkunar,03-03-2024,Flood / flash flood,0,0,1,8,1,0
+Eastern,6,Nangarhar,603,Surkhrod,03-03-2024,Flood / flash flood,0,0,4,28,2,0
+Eastern,6,Nangarhar,617,Achin,03-03-2024,Flood / flash flood,0,0,11,82,9,2
+Eastern,6,Nangarhar,611,Sherzad,03-03-2024,Flood / flash flood,0,0,12,81,10,2
+Eastern,6,Nangarhar,612,Pachieragam,03-03-2024,Flood / flash flood,0,0,7,60,7,0
+Eastern,6,Nangarhar,606,Rodat,03-03-2024,Flood / flash flood,0,0,2,17,2,0
+Eastern,6,Nangarhar,607,Kama,03-03-2024,Flood / flash flood,0,0,3,29,3,0
+North Eastern,17,Kunduz,1706,Khanabad,04-03-2024,Flood / flash flood,0,0,7,49,5,0
+Northern,28,Faryab,2801,Maymana,04-03-2024,Heavy snowfall,0,0,5,35,5,0
+Northern,28,Faryab,2806,Qaysar,04-03-2024,Heavy snowfall,0,0,3,21,3,0
+Northern,28,Faryab,2805,Almar,04-03-2024,Heavy snowfall,0,0,1,7,1,0
+Northern,28,Faryab,2810,Dawlatabad,04-03-2024,Heavy snowfall,0,0,3,21,3,0
+Northern,28,Faryab,2803,Pashtunkot,04-03-2024,Heavy snowfall,0,0,13,91,13,0
+Southern,23,Uruzgan,2301,Tirinkot,04-03-2024,Flood / flash flood,0,0,20,150,20,0
+South Eastern,11,Ghazni,1101,Ghazni,07-03-2024,Heavy snowfall,0,0,98,686,98,0
+Capital,3,Parwan,302,Jabalussaraj,10-03-2024,Flood / flash flood,0,0,19,133,18,1
+Capital,3,Parwan,301,Charikar,10-03-2024,Flood / flash flood,0,0,5,35,5,0
+Capital,3,Parwan,306,Salang,10-03-2024,Flood / flash flood,0,0,4,28,4,0
+Capital,3,Parwan,303,Shinwari,10-03-2024,Flood / flash flood,0,0,14,98,14,0
+Capital,3,Parwan,307,Ghorband,10-03-2024,Flood / flash flood,0,0,3,21,2,1
+Capital,3,Parwan,305,Saydkhel,10-03-2024,Flood / flash flood,0,0,8,56,8,0
+Capital,2,Kapisa,201,Mahmud-e-Raqi,10-03-2024,Flood / flash flood,0,0,8,56,8,0
+Capital,2,Kapisa,207,Hisa-e- Awal-e- Kohestan,10-03-2024,Flood / flash flood,0,0,21,147,15,0
+Capital,2,Kapisa,204,Hisa-e-Duwum-e-Kohestan,10-03-2024,Flood / flash flood,0,0,6,42,6,0
+Capital,2,Kapisa,202,Nejrab,10-03-2024,Flood / flash flood,0,0,3,21,3,0
+Capital,8,Panjsher,806,Onaba(Anawa),10-03-2024,Heavy snowfall,0,0,2,14,2,0
+Capital,8,Panjsher,805,Khenj (Hese- Awal),10-03-2024,Heavy snowfall,0,0,3,21,3,0
+Capital,8,Panjsher,802,Shutul,10-03-2024,Heavy snowfall,0,0,7,49,5,0
+Capital,8,Panjsher,801,Bazarak,10-03-2024,Heavy snowfall,0,0,8,56,4,0
+Capital,3,Parwan,308,Koh-e-Safi,10-03-2024,Flood / flash flood,0,0,14,98,13,1
+Northern,18,Balkh,1801,Mazar-e-Sharif,11-03-2024,Flood / flash flood,0,0,3,21,3,0
+Northern,18,Balkh,1812,Charbulak,11-03-2024,Flood / flash flood,0,0,2,14,2,0
+Northern,18,Balkh,1805,Balkh,11-03-2024,Flood / flash flood,0,0,1,7,1,0
+Western,30,Hirat,3002,Injil,12-03-2024,Flood / flash flood,0,0,2,14,2,0
+Western,30,Hirat,3005,Guzara,12-03-2024,Flood / flash flood,0,0,26,182,26,0
+Western,30,Hirat,3004,Zindajan,12-03-2024,Flood / flash flood,0,0,2,14,2,0
+Western,29,Badghis,2902,Muqur,12-03-2024,Flood / flash flood,0,0,3,21,3,0
+Western,29,Badghis,2901,Qala-e-Naw,12-03-2024,Flood / flash flood,0,0,2,14,2,0
+Western,29,Badghis,2903,Abkamari,12-03-2024,Flood / flash flood,0,0,1,14,1,0
+Western,29,Badghis,2904,Qadis,12-03-2024,Flood / flash flood,6,2,1,7,0,1
+Western,30,Hirat,3001,Hirat,12-03-2024,Flood / flash flood,6,0,21,147,21,0
+Western,29,Badghis,2906,Balamurghab,12-03-2024,Flood / flash flood,0,0,34,238,15,0
+Western,30,Hirat,3006,Pashtunzarghun,12-03-2024,Flood / flash flood,0,0,1,7,1,0
+North Eastern,17,Kunduz,1701,Kunduz,14-03-2024,Flood / flash flood,0,0,3,21,2,1
+Southern,24,Zabul,2406,Shahjoy,15-03-2024,Flood / flash flood,0,0,11,89,10,1
+Northern,28,Faryab,2806,Qaysar,20-03-2024,Flood / flash flood,0,0,33,231,20,13
+Northern,28,Faryab,2805,Almar,20-03-2024,Flood / flash flood,0,0,24,168,10,14
+Northern,28,Faryab,2803,Pashtunkot,20-03-2024,Flood / flash flood,0,0,3,21,3,0
+Northern,28,Faryab,2809,Bilcheragh,20-03-2024,Flood / flash flood,0,0,3,21,3,0
+Northern,28,Faryab,2801,Maymana,20-03-2024,Flood / flash flood,0,0,9,63,9,0
+Western,29,Badghis,2905,Jawand,20-03-2024,Flood / flash flood,0,0,32,224,32,0
+Western,30,Hirat,3006,Pashtunzarghun,20-03-2024,Flood / flash flood,0,0,6,42,0,6
+Western,30,Hirat,3003,Kushk,20-03-2024,Flood / flash flood,0,0,6,42,6,0
+Western,29,Badghis,2906,Balamurghab,20-03-2024,Flood / flash flood,0,0,11,77,11,0
+Western,29,Badghis,2901,Qala-e-Naw,20-03-2024,Flood / flash flood,0,0,6,42,6,0
+Western,29,Badghis,2904,Qadis,20-03-2024,Flood / flash flood,0,0,15,105,15,0
+Western,29,Badghis,2901,Qala-e-Naw,20-03-2024,Flood / flash flood,0,0,2,14,2,0
+Western,29,Badghis,2901,Qala-e-Naw,20-03-2024,Flood / flash flood,0,0,7,49,7,0
+Western,29,Badghis,2901,Qala-e-Naw,20-03-2024,Flood / flash flood,0,0,7,49,7,0
+Northern,20,Sar-e-Pul,2001,Sar-e-Pul,21-03-2024,Flood / flash flood,0,0,9,63,0,0
+North Eastern,16,Takhar,1607,Farkhar,22-03-2024,Flood / flash flood,0,0,1,7,0,1
+North Eastern,16,Takhar,1601,Taloqan,22-03-2024,Flood / flash flood,0,0,3,21,3,0
+Northern,18,Balkh,1813,Chemtal,26-03-2024,Flood / flash flood,0,0,2,14,2,0
+Northern,18,Balkh,1801,Mazar-e-Sharif,26-03-2024,Flood / flash flood,0,0,4,28,4,0
+Southern,23,Uruzgan,2303,Shahid-e-Hassas,27-03-2024,Flood / flash flood,0,0,2,20,2,0
+Southern,23,Uruzgan,2301,Tirinkot,27-03-2024,Flood / flash flood,0,0,43,379,38,5
+Capital,1,Kabul,103,Shakardara,27-03-2024,Flood / flash flood,0,0,11,77,8,3
+Capital,1,Kabul,104,Paghman,27-03-2024,Flood / flash flood,0,0,5,35,5,0
+Northern,18,Balkh,1801,Mazar-e-Sharif,27-03-2024,Flood / flash flood,0,0,9,63,9,0
+Capital,1,Kabul,102,Dehsabz,27-03-2024,Flood / flash flood,0,0,2,14,2,0
+Northern,28,Faryab,2808,Garziwan,27-03-2024,Flood / flash flood,0,0,2,14,2,0
+Northern,28,Faryab,2809,Bilcheragh,27-03-2024,Flood / flash flood,3,1,23,161,17,6
+Northern,28,Faryab,2803,Pashtunkot,27-03-2024,Flood / flash flood,0,0,5,35,5,0
+Capital,1,Kabul,101,Kabul,27-03-2024,Flood / flash flood,0,0,25,175,25,0
+Northern,28,Faryab,2810,Dawlatabad,27-03-2024,Flood / flash flood,1,3,66,462,22,44
+Western,29,Badghis,2901,Qala-e-Naw,28-03-2024,Flood / flash flood,0,0,6,42,6,0
+North Eastern,9,Baghlan,911,Pul-e- Hesar,28-03-2024,Flood / flash flood,0,0,3,21,2,1
+Eastern,6,Nangarhar,620,Lalpur,29-03-2024,Flood / flash flood,0,2,45,363,29,8
+Eastern,6,Nangarhar,604,Khogyani,29-03-2024,Flood / flash flood,0,0,2,14,0,0
+Eastern,6,Nangarhar,601,Jalalabad,29-03-2024,Flood / flash flood,0,0,13,63,2,0
+Eastern,6,Nangarhar,613,Dehbala,29-03-2024,Flood / flash flood,0,0,6,49,5,1
+Eastern,6,Nangarhar,617,Achin,29-03-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,6,Nangarhar,618,Shinwar,29-03-2024,Flood / flash flood,0,0,12,102,12,0
+Central Highland,10,Bamyan,1001,Bamyan,29-03-2024,Heavy snowfall,3,1,39,273,49,0
+Central Highland,10,Bamyan,1006,Kahmard,29-03-2024,Heavy snowfall,0,0,16,112,16,0
+Central Highland,10,Bamyan,1002,Sayghan,29-03-2024,Heavy snowfall,0,0,4,28,4,0
+Central Highland,10,Bamyan,1005,Shibar,29-03-2024,Heavy snowfall,0,0,1,7,1,0
+Central Highland,10,Bamyan,1007,Waras,29-03-2024,Heavy snowfall,0,0,3,21,3,0
+Central Highland,10,Bamyan,1004,Panjab,29-03-2024,Heavy snowfall,0,0,12,84,12,0
+Central Highland,10,Bamyan,1003,Yakawlang,29-03-2024,Heavy snowfall,0,0,12,84,12,0
+Central Highland,10,Bamyan,1003,Yakawlang,29-03-2024,Heavy snowfall,0,0,13,91,13,0
+Eastern,13,Kunar,1305,Marawara,30-03-2024,Flood / flash flood,1,1,5,29,0,3
+Eastern,13,Kunar,1304,Sarkani,30-03-2024,Flood / flash flood,0,0,8,79,0,0
+North Eastern,15,Badakhshan,1501,Fayzabad,30-03-2024,Flood / flash flood,0,0,1,7,0,1
+North Eastern,16,Takhar,1616,Warsaj,02-04-2024,Flood / flash flood,0,2,3,21,1,2
+North Eastern,9,Baghlan,901,Pul-e-Khumri,07-04-2024,Flood / flash flood,2,2,1,7,0,1
+Central Highland,22,Daykundi,2205,Gizab,10-04-2024,Heavy snowfall,0,0,28,196,28,0
+Central Highland,22,Daykundi,2204,kiti,10-04-2024,Heavy snowfall,0,0,12,84,12,0
+Central Highland,22,Daykundi,2201,Nili,10-04-2024,Heavy snowfall,0,0,3,21,3,0
+Central Highland,22,Daykundi,2207,Sang-e-Takht,10-04-2024,Heavy snowfall,0,0,24,168,24,0
+Central Highland,22,Daykundi,2203,Khadir,10-04-2024,Heavy snowfall,0,0,23,161,21,2
+Central Highland,22,Daykundi,2208,Kajran,10-04-2024,Heavy snowfall,0,0,3,21,3,0
+Central Highland,22,Daykundi,2209,Miramor,10-04-2024,Heavy snowfall,0,0,19,133,19,0
+Central Highland,22,Daykundi,2206,Shahrestan,10-04-2024,Heavy snowfall,0,0,36,252,36,0
+Central Highland,22,Daykundi,2202,Ashtarlay,10-04-2024,Heavy snowfall,0,0,51,357,51,0
+Southern,32,Hilmand,3201,Lashkargah,12-04-2024,Flood / flash flood,0,3,77,622,59,18
+Capital,1,Kabul,101,Kabul,13-04-2024,Flood / flash flood,0,0,9,28,9,0
+Capital,1,Kabul,101,Kabul,13-04-2024,Flood / flash flood,3,1,16,70,13,3
+Western,31,Farah,3101,Farah,13-04-2024,Flood / flash flood,0,0,43,378,43,0
+Capital,5,Logar,504,Barakibarak,13-04-2024,Flood / flash flood,2,0,8,54,3,5
+Western,31,Farah,3103,Balabuluk,13-04-2024,Flood / flash flood,0,0,2,14,0,0
+Capital,8,Panjsher,805,Khenj (Hese- Awal),13-04-2024,Flood / flash flood,0,0,5,35,2,3
+Capital,4,Wardak,401,Maydanshahr,13-04-2024,Flood / flash flood,0,0,5,53,4,1
+Western,31,Farah,3108,Lash-e-Juwayn,13-04-2024,Flood / flash flood,0,0,117,1077,117,0
+Western,31,Farah,3111,Anardara,13-04-2024,Flood / flash flood,1,0,1,5,0,0
+Western,31,Farah,3109,Gulestan,13-04-2024,Flood / flash flood,0,0,12,74,0,0
+Capital,1,Kabul,101,Kabul,13-04-2024,Flood / flash flood,0,0,5,35,6,0
+Capital,1,Kabul,101,Kabul,13-04-2024,Flood / flash flood,0,0,7,14,7,1
+Capital,1,Kabul,101,Kabul,13-04-2024,Flood / flash flood,0,0,6,21,5,1
+Capital,1,Kabul,101,Kabul,13-04-2024,Flood / flash flood,0,0,5,42,4,0
+Capital,3,Parwan,304,Bagram,13-04-2024,Flood / flash flood,0,0,20,140,5,15
+Capital,3,Parwan,302,Jabalussaraj,13-04-2024,Flood / flash flood,0,0,3,21,3,0
+Capital,3,Parwan,308,Koh-e-Safi,13-04-2024,Flood / flash flood,0,0,3,21,3,0
+Capital,3,Parwan,305,Saydkhel,13-04-2024,Flood / flash flood,0,0,5,35,5,0
+Capital,8,Panjsher,802,Shutul,13-04-2024,Flood / flash flood,0,0,14,98,14,0
+Capital,8,Panjsher,804,Dara,13-04-2024,Flood / flash flood,0,0,12,84,12,0
+Capital,4,Wardak,405,Daymirdad,13-04-2024,Flood / flash flood,0,0,5,35,5,0
+Capital,4,Wardak,403,Nerkh,13-04-2024,Flood / flash flood,0,0,2,14,0,0
+Capital,4,Wardak,409,Jaghatu,13-04-2024,Flood / flash flood,0,0,10,70,9,0
+Capital,4,Wardak,402,Jalrez,13-04-2024,Flood / flash flood,0,0,5,35,4,1
+Western,31,Farah,3110,Purchaman,13-04-2024,Flood / flash flood,1,0,691,6468,17,20
+Capital,5,Logar,505,Charkh,13-04-2024,Flood / flash flood,0,0,4,28,4,0
+Capital,2,Kapisa,205,Tagab,13-04-2024,Flood / flash flood,0,0,4,28,4,0
+Capital,5,Logar,501,Pul-e-Alam,13-04-2024,Flood / flash flood,5,2,4,28,2,2
+Western,30,Hirat,3006,Pashtunzarghun,13-04-2024,Flood / flash flood,0,0,5,35,0,0
+Southern,23,Uruzgan,2305,Khasuruzgan,13-04-2024,Flood / flash flood,0,0,14,114,14,0
+Southern,23,Uruzgan,2304,Dehrawud,13-04-2024,Flood / flash flood,0,0,43,315,41,2
+South Eastern,25,Paktika,2502,Matakhan,13-04-2024,Flood / flash flood,0,0,20,140,20,0
+South Eastern,25,Paktika,2510,Urgun,13-04-2024,Flood / flash flood,0,0,2,14,2,0
+Southern,23,Uruzgan,2301,Tirinkot,13-04-2024,Flood / flash flood,0,0,4,49,3,1
+Western,30,Hirat,3002,Injil,13-04-2024,Flood / flash flood,0,0,6,31,1,0
+Western,30,Hirat,3012,Obe,13-04-2024,Flood / flash flood,0,0,43,297,5,1
+Western,30,Hirat,3001,Hirat,13-04-2024,Flood / flash flood,0,0,8,48,0,0
+Western,30,Hirat,3005,Guzara,13-04-2024,Flood / flash flood,1,0,6,41,0,0
+Western,30,Hirat,3016,Chisht-e-Sharif,13-04-2024,Flood / flash flood,0,0,4,28,0,0
+Western,30,Hirat,3010,Adraskan,13-04-2024,Flood / flash flood,0,0,32,153,0,0
+Capital,8,Panjsher,806,Onaba(Anawa),13-04-2024,Flood / flash flood,0,0,6,42,2,4
+Capital,2,Kapisa,201,Mahmud-e-Raqi,13-04-2024,Flood / flash flood,0,0,15,105,13,0
+Capital,2,Kapisa,204,Hisa-e-Duwum-e-Kohestan,13-04-2024,Flood / flash flood,0,0,12,84,8,0
+Capital,2,Kapisa,203,Kohband,13-04-2024,Flood / flash flood,0,0,15,105,15,0
+Capital,2,Kapisa,202,Nejrab,13-04-2024,Flood / flash flood,0,1,6,42,6,0
+Capital,2,Kapisa,207,Hisa-e- Awal-e- Kohestan,13-04-2024,Flood / flash flood,0,0,10,70,10,0
+Capital,3,Parwan,303,Shinwari,13-04-2024,Flood / flash flood,0,0,13,91,13,0
+Capital,4,Wardak,407,Saydabad,13-04-2024,Flood / flash flood,0,0,6,42,6,0
+South Eastern,26,Khost,2602,Sabari,13-04-2024,Flood / flash flood,0,0,25,175,25,0
+Capital,3,Parwan,301,Charikar,13-04-2024,Flood / flash flood,0,1,21,147,20,1
+Capital,3,Parwan,306,Salang,13-04-2024,Flood / flash flood,0,0,19,133,14,5
+Southern,23,Uruzgan,2304,Dehrawud,13-04-2024,Flood / flash flood,9,5,365,3051,251,114
+Southern,23,Uruzgan,2302,Chora / Chinarto,13-04-2024,Flood / flash flood,0,0,17,125,14,2
+Southern,23,Uruzgan,2303,Shahid-e-Hassas,13-04-2024,Flood / flash flood,0,0,27,188,23,4
+Southern,23,Uruzgan,2301,Tirinkot,13-04-2024,Flood / flash flood,0,0,29,209,25,4
+South Eastern,12,Paktya,1211,Dand Wa Patan,14-04-2024,Flood / flash flood,0,0,2,14,2,1
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,14-04-2024,Flood / flash flood,0,0,3,24,1,2
+Southern,32,Hilmand,3202,Nahr-e-Saraj,14-04-2024,Flood / flash flood,0,0,12,97,12,0
+Southern,32,Hilmand,3203,Nad-e-Ali,14-04-2024,Flood / flash flood,0,1,10,60,7,3
+South Eastern,12,Paktya,1207,Lija Ahmad Khel,14-04-2024,Flood / flash flood,0,0,2,14,1,1
+South Eastern,12,Paktya,1210,Chamkani,14-04-2024,Flood / flash flood,0,0,2,14,1,1
+Southern,32,Hilmand,3205,Sangin,14-04-2024,Flood / flash flood,0,8,37,258,27,10
+Southern,32,Hilmand,3206,Musaqalah,14-04-2024,Flood / flash flood,0,0,34,294,30,4
+Eastern,13,Kunar,1308,Chawkay,14-04-2024,Flood / flash flood,0,1,23,167,11,4
+South Eastern,12,Paktya,1207,Lija Ahmad Khel,14-04-2024,Flood / flash flood,0,0,3,21,2,1
+South Eastern,12,Paktya,1202,Sayedkaram,14-04-2024,Flood / flash flood,0,0,3,21,3,0
+South Eastern,12,Paktya,1201,Gardez,14-04-2024,Flood / flash flood,0,0,6,42,5,1
+South Eastern,12,Paktya,1206,Zadran,14-04-2024,Flood / flash flood,5,0,6,42,5,1
+South Eastern,12,Paktya,1207,Lija Ahmad Khel,14-04-2024,Flood / flash flood,0,0,4,28,3,1
+South Eastern,12,Paktya,1202,Sayedkaram,14-04-2024,Flood / flash flood,0,0,2,14,1,0
+Southern,32,Hilmand,3210,Kajaki,14-04-2024,Flood / flash flood,7,0,97,709,58,39
+South Eastern,12,Paktya,1203,Ahmadaba,14-04-2024,Flood / flash flood,0,0,8,54,6,2
+Eastern,13,Kunar,1302,Watapur,14-04-2024,Flood / flash flood,0,0,19,169,12,7
+Eastern,13,Kunar,1313,Chapadara,14-04-2024,Flood / flash flood,0,0,31,263,21,10
+Eastern,13,Kunar,1314,Nurgal,14-04-2024,Flood / flash flood,0,0,25,158,13,2
+Eastern,13,Kunar,1305,Marawara,14-04-2024,Flood / flash flood,0,0,19,143,13,6
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,14-04-2024,Flood / flash flood,0,0,20,145,3,16
+Eastern,13,Kunar,1305,Marawara,14-04-2024,Flood / flash flood,0,0,48,364,29,15
+North Eastern,15,Badakhshan,1514,Shighnan,15-04-2024,Flood / flash flood,0,6,1,6,0,1
+Southern,34,Nimroz,3404,Chakhansur,15-04-2024,Flood / flash flood,0,0,16,124,0,16
+North Eastern,15,Badakhshan,1501,Fayzabad,15-04-2024,Flood / flash flood,0,0,9,63,4,5
+Northern,28,Faryab,2801,Maymana,15-04-2024,Flood / flash flood,0,0,1,7,1,0
+Southern,33,Kandahar,3301,Kandahar,15-04-2024,Flood / flash flood,2,0,57,395,41,16
+Southern,33,Kandahar,3302,Arghandab,15-04-2024,Flood / flash flood,0,0,7,49,7,0
+Southern,33,Kandahar,3311,Spinboldak,15-04-2024,Flood / flash flood,2,0,30,211,24,6
+North Eastern,15,Badakhshan,1501,Fayzabad,15-04-2024,Flood / flash flood,0,0,4,28,4,0
+Northern,28,Faryab,2803,Pashtunkot,15-04-2024,Flood / flash flood,0,0,1,7,1,0
+Northern,28,Faryab,2808,Garziwan,15-04-2024,Flood / flash flood,0,0,1,7,1,0
+Southern,32,Hilmand,3202,Nahr-e-Saraj,15-04-2024,Flood / flash flood,1,0,110,748,93,17
+Southern,34,Nimroz,3405,Khashrod,16-04-2024,Flood / flash flood,0,0,23,150,17,6
+North Eastern,17,Kunduz,1706,Khanabad,16-04-2024,Flood / flash flood,0,0,1,7,0,1
+Southern,34,Nimroz,3403,Charburjak,16-04-2024,Flood / flash flood,0,0,17,99,8,9
+Southern,34,Nimroz,3403,Charburjak,16-04-2024,Flood / flash flood,0,0,5,29,5,0
+Southern,34,Nimroz,3401,Zaranj,16-04-2024,Flood / flash flood,0,0,1,5,1,0
+Southern,34,Nimroz,3404,Chakhansur,16-04-2024,Flood / flash flood,0,0,1,5,1,0
+South Eastern,12,Paktya,1201,Gardez,16-04-2024,Flood / flash flood,0,0,8,54,0,8
+South Eastern,12,Paktya,1201,Gardez,16-04-2024,Flood / flash flood,0,0,5,35,0,5
+South Eastern,12,Paktya,1207,Lija Ahmad Khel,16-04-2024,Flood / flash flood,0,0,4,28,0,4
+South Eastern,12,Paktya,1210,Chamkani,16-04-2024,Flood / flash flood,0,0,4,28,0,4
+Western,21,Ghor,2109,Tolak,17-04-2024,Flood / flash flood,0,1,8,40,0,0
+Southern,34,Nimroz,3404,Chakhansur,18-04-2024,Flood / flash flood,0,0,9,62,6,3
+Western,21,Ghor,2102,Charsadra,18-04-2024,Flood / flash flood,0,0,45,430,0,0
+Eastern,6,Nangarhar,618,Shinwar,18-04-2024,Flood / flash flood,2,10,82,677,60,21
+Eastern,6,Nangarhar,611,Sherzad,18-04-2024,Flood / flash flood,1,4,10,74,5,5
+Eastern,6,Nangarhar,609,Dara-e-Nur,18-04-2024,Flood / flash flood,0,0,15,142,13,2
+Eastern,6,Nangarhar,619,Muhmand Dara,18-04-2024,Flood / flash flood,1,4,60,440,24,6
+Eastern,6,Nangarhar,614,Kot,18-04-2024,Flood / flash flood,0,0,7,63,7,0
+Eastern,6,Nangarhar,621,Nazyan,18-04-2024,Flood / flash flood,0,0,40,268,39,1
+Eastern,6,Nangarhar,615,Batikot,18-04-2024,Flood / flash flood,0,0,108,616,83,25
+Eastern,6,Nangarhar,622,Durbaba,18-04-2024,Flood / flash flood,0,4,36,274,16,10
+Eastern,6,Nangarhar,601,Jalalabad,18-04-2024,Flood / flash flood,0,0,43,262,12,5
+Eastern,6,Nangarhar,607,Kama,18-04-2024,Flood / flash flood,0,0,1,9,1,0
+Eastern,6,Nangarhar,604,Khogyani,18-04-2024,Flood / flash flood,1,1,3,21,0,3
+Eastern,6,Nangarhar,604,Khogyani,18-04-2024,Flood / flash flood,1,1,9,66,2,7
+Northern,18,Balkh,1815,Keshendeh,18-04-2024,Flood / flash flood,0,0,222,1554,222,0
+Western,29,Badghis,2904,Qadis,18-04-2024,Flood / flash flood,0,0,11,30,0,0
+Western,29,Badghis,2901,Qala-e-Naw,18-04-2024,Flood / flash flood,0,0,9,18,1,1
+Eastern,6,Nangarhar,605,Chaparhar,18-04-2024,Flood / flash flood,0,0,5,39,2,3
+Southern,24,Zabul,2408,Daychopan,19-04-2024,Flood / flash flood,4,0,25,200,18,0
+Southern,24,Zabul,2407,Kakar,19-04-2024,Flood / flash flood,0,0,24,171,18,0
+Southern,24,Zabul,2401,Qalat,19-04-2024,Flood / flash flood,2,1,28,197,17,0
+Eastern,13,Kunar,1302,Watapur,19-04-2024,Flood / flash flood,0,0,37,332,0,13
+Eastern,13,Kunar,1313,Chapadara,19-04-2024,Flood / flash flood,0,0,9,83,0,2
+Eastern,13,Kunar,1307,Dara-e-Pech,19-04-2024,Flood / flash flood,0,4,72,461,0,12
+Western,21,Ghor,2101,Chaghcharan,19-04-2024,Flood / flash flood,0,1,43,398,5,3
+Eastern,13,Kunar,1303,Narang,19-04-2024,Flood / flash flood,0,2,18,162,0,8
+Eastern,13,Kunar,1314,Nurgal,19-04-2024,Flood / flash flood,1,4,28,189,0,10
+Southern,24,Zabul,2403,Mizan,19-04-2024,Flood / flash flood,6,0,5,39,0,0
+Western,21,Ghor,2110,Saghar,20-04-2024,Flood / flash flood,0,0,4,18,0,0
+North Eastern,17,Kunduz,1701,Kunduz,20-04-2024,Flood / flash flood,0,0,2,14,2,0
+North Eastern,9,Baghlan,906,Tala Wa Barfak,20-04-2024,Flood / flash flood,0,0,21,147,7,14
+North Eastern,9,Baghlan,910,Burka,20-04-2024,Flood / flash flood,2,3,2,14,2,0
+North Eastern,9,Baghlan,910,Burka,20-04-2024,Flood / flash flood,0,0,2,14,2,0
+Eastern,14,Nuristan,1406,Waygal,20-04-2024,Flood / flash flood,0,0,16,130,0,16
+Northern,20,Sar-e-Pul,2003,Kohestanat,20-04-2024,Flood / flash flood,5,0,22,154,22,0
+North Eastern,15,Badakhshan,1501,Fayzabad,21-04-2024,Flood / flash flood,0,0,9,63,4,5
+North Eastern,15,Badakhshan,1502,Yaftal-e-Sufla,21-04-2024,Flood / flash flood,1,0,20,140,16,4
+North Eastern,16,Takhar,1615,Eshkmesh,21-04-2024,Flood / flash flood,0,0,2,14,2,0
+North Eastern,15,Badakhshan,1503,Argo,21-04-2024,Flood / flash flood,0,0,7,49,7,0
+Western,21,Ghor,2105,Shahrak,21-04-2024,Flood / flash flood,3,1,12,63,3,1
+North Eastern,15,Badakhshan,1522,Warduj,21-04-2024,Flood / flash flood,0,0,4,28,2,2
+North Eastern,9,Baghlan,904,Doshi,22-04-2024,Flood / flash flood,2,3,3,21,3,0
+Southern,32,Hilmand,3212,Reg,22-04-2024,Flood / flash flood,0,0,5,41,4,1
+South Eastern,11,Ghazni,1115,Abband,22-04-2024,Flood / flash flood,0,0,1,7,1,0
+Southern,32,Hilmand,3212,Reg,22-04-2024,Flood / flash flood,0,0,53,371,6,47
+South Eastern,11,Ghazni,1118,Gelan,22-04-2024,Flood / flash flood,1,0,1,7,1,0
+South Eastern,11,Ghazni,1110,Qarabagh,22-04-2024,Flood / flash flood,0,0,2,14,1,1
+South Eastern,11,Ghazni,1101,Ghazni,22-04-2024,Flood / flash flood,0,2,20,140,18,2
+South Eastern,11,Ghazni,1113,Jaghuri,22-04-2024,Flood / flash flood,2,0,5,35,5,0
+South Eastern,11,Ghazni,1105,Andar,22-04-2024,Flood / flash flood,2,0,8,54,7,1
+South Eastern,11,Ghazni,1106,Dehyak,22-04-2024,Flood / flash flood,0,0,3,21,3,0
+South Eastern,11,Ghazni,1107,Zanakhan,22-04-2024,Flood / flash flood,0,0,3,21,3,0
+Northern,19,Samangan,1906,Khuram Wa Sarbagh,25-04-2024,Flood / flash flood,0,0,31,217,15,16
+Northern,19,Samangan,1907,Ruy-e-Duab,25-04-2024,Flood / flash flood,0,0,10,70,9,1
+Northern,19,Samangan,1902,Hazrat-e- Sultan,25-04-2024,Flood / flash flood,0,0,3,21,3,0
+Northern,18,Balkh,1809,Khulm,25-04-2024,Flood / flash flood,0,0,4,28,3,1
+Northern,19,Samangan,1901,Aybak,25-04-2024,Flood / flash flood,0,0,16,112,14,2
+Eastern,13,Kunar,1303,Narang,26-04-2024,Landslide / mudflow,0,0,15,95,0,0
+Eastern,13,Kunar,1304,Sarkani,26-04-2024,Landslide / mudflow,0,0,23,208,0,0
+Eastern,13,Kunar,1302,Watapur,26-04-2024,Landslide / mudflow,0,0,10,49,0,0
+North Eastern,15,Badakhshan,1509,Teshkan,26-04-2024,Flood / flash flood,0,0,31,217,27,4
+Eastern,6,Nangarhar,611,Sherzad,27-04-2024,Flood / flash flood,0,0,10,90,1,9
+Southern,33,Kandahar,3307,Khakrez,27-04-2024,Flood / flash flood,0,0,23,141,15,8
+Eastern,6,Nangarhar,614,Kot,27-04-2024,Flood / flash flood,0,0,26,241,26,0
+Southern,33,Kandahar,3308,Maywand,27-04-2024,Flood / flash flood,1,0,1,7,1,0
+Southern,33,Kandahar,3314,Nesh,27-04-2024,Flood / flash flood,0,0,17,121,13,4
+Southern,33,Kandahar,3304,Panjwayi,27-04-2024,Flood / flash flood,0,0,2,18,2,0
+Southern,33,Kandahar,3305,Daman,27-04-2024,Flood / flash flood,0,0,3,23,3,0
+Southern,33,Kandahar,3303,Zheray,27-04-2024,Flood / flash flood,0,0,3,21,3,0
+Eastern,6,Nangarhar,608,Kuzkunar,27-04-2024,Flood / flash flood,0,0,32,286,14,4
+Eastern,6,Nangarhar,620,Lalpur,27-04-2024,Flood / flash flood,0,0,72,604,62,10
+Eastern,6,Nangarhar,619,Muhmand Dara,27-04-2024,Flood / flash flood,1,6,98,717,20,37
+Eastern,6,Nangarhar,612,Pachieragam,27-04-2024,Flood / flash flood,0,2,11,103,0,11
+Eastern,6,Nangarhar,603,Surkhrod,27-04-2024,Flood / flash flood,0,13,54,397,6,35
+Eastern,6,Nangarhar,618,Shinwar,27-04-2024,Flood / flash flood,0,1,65,485,35,20
+Eastern,6,Nangarhar,606,Rodat,27-04-2024,Flood / flash flood,0,0,58,384,37,3
+Southern,33,Kandahar,3302,Arghandab,27-04-2024,Flood / flash flood,0,0,2,16,2,0
+North Eastern,9,Baghlan,905,Nahrin,27-04-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,6,Nangarhar,604,Khogyani,27-04-2024,Flood / flash flood,0,0,11,92,0,11
+North Eastern,17,Kunduz,1706,Khanabad,27-04-2024,Flood / flash flood,0,0,7,49,7,0
+North Eastern,16,Takhar,1601,Taloqan,27-04-2024,Flood / flash flood,0,0,39,273,25,14
+Southern,33,Kandahar,3301,Kandahar,27-04-2024,Flood / flash flood,0,0,57,391,52,5
+North Eastern,9,Baghlan,901,Pul-e-Khumri,27-04-2024,Flood / flash flood,0,0,9,63,8,1
+Eastern,6,Nangarhar,617,Achin,27-04-2024,Flood / flash flood,0,0,116,904,107,7
+Eastern,6,Nangarhar,615,Batikot,27-04-2024,Flood / flash flood,0,0,73,552,66,7
+Eastern,6,Nangarhar,609,Dara-e-Nur,27-04-2024,Flood / flash flood,0,0,90,709,50,16
+Eastern,6,Nangarhar,613,Dehbala,27-04-2024,Flood / flash flood,0,0,19,69,0,19
+Eastern,6,Nangarhar,622,Durbaba,27-04-2024,Flood / flash flood,0,0,24,176,11,6
+Eastern,6,Nangarhar,616,Goshta,27-04-2024,Flood / flash flood,0,0,51,342,17,14
+Eastern,6,Nangarhar,601,Jalalabad,27-04-2024,Flood / flash flood,0,0,434,3804,205,145
+Eastern,6,Nangarhar,607,Kama,27-04-2024,Flood / flash flood,0,0,34,218,13,8
+Eastern,6,Nangarhar,605,Chaparhar,27-04-2024,Flood / flash flood,0,0,18,163,1,17
+Southern,33,Kandahar,3306,Shahwalikot,27-04-2024,Flood / flash flood,0,0,7,49,5,2
+Capital,3,Parwan,304,Bagram,28-04-2024,Flood / flash flood,0,0,8,56,0,8
+Capital,3,Parwan,301,Charikar,28-04-2024,Flood / flash flood,0,0,18,126,6,12
+Capital,3,Parwan,307,Ghorband,28-04-2024,Flood / flash flood,0,0,6,42,5,1
+Capital,3,Parwan,302,Jabalussaraj,28-04-2024,Flood / flash flood,0,0,36,252,33,3
+Capital,3,Parwan,308,Koh-e-Safi,28-04-2024,Flood / flash flood,0,0,9,63,9,0
+Capital,3,Parwan,306,Salang,28-04-2024,Flood / flash flood,0,0,3,21,1,2
+Capital,3,Parwan,303,Shinwari,28-04-2024,Flood / flash flood,0,0,10,70,7,3
+Capital,3,Parwan,305,Saydkhel,28-04-2024,Flood / flash flood,0,0,14,98,14,0
+Western,21,Ghor,2107,Pasaband,28-04-2024,Flood / flash flood,0,0,22,323,4,8
+South Eastern,11,Ghazni,1101,Ghazni,28-04-2024,Flood / flash flood,0,0,5,35,5,0
+Western,29,Badghis,2905,Jawand,28-04-2024,Flood / flash flood,1,1,63,188,0,0
+North Eastern,17,Kunduz,1701,Kunduz,28-04-2024,Flood / flash flood,0,0,5,35,5,0
+South Eastern,11,Ghazni,1109,Jaghatu,28-04-2024,Earthquake,1,4,6,42,6,0
+Eastern,13,Kunar,1302,Watapur,29-04-2024,Flood / flash flood,0,0,67,403,41,18
+North Eastern,9,Baghlan,911,Pul-e- Hesar,29-04-2024,Flood / flash flood,0,0,6,42,11,2
+North Eastern,9,Baghlan,904,Doshi,29-04-2024,Flood / flash flood,0,0,7,49,7,0
+North Eastern,9,Baghlan,909,Khwajahejran,29-04-2024,Flood / flash flood,0,2,13,91,9,4
+Capital,4,Wardak,402,Jalrez,29-04-2024,Flood / flash flood,0,0,10,70,10,0
+Capital,4,Wardak,405,Daymirdad,29-04-2024,Flood / flash flood,0,0,3,21,3,0
+Capital,4,Wardak,409,Jaghatu,29-04-2024,Flood / flash flood,0,0,7,49,7,0
+Western,21,Ghor,2102,Charsadra,29-04-2024,Flood / flash flood,0,0,190,950,3,1
+North Eastern,9,Baghlan,907,Khenjan,29-04-2024,Flood / flash flood,0,0,13,91,0,0
+North Eastern,9,Baghlan,902,Baghlan-e-Jadid,29-04-2024,Flood / flash flood,0,0,1,7,1,0
+Western,30,Hirat,3010,Adraskan,29-04-2024,Flood / flash flood,0,0,25,168,0,0
+North Eastern,15,Badakhshan,1501,Fayzabad,29-04-2024,Flood / flash flood,0,0,2,14,0,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,29-04-2024,Flood / flash flood,0,0,58,447,37,21
+Eastern,13,Kunar,1313,Chapadara,29-04-2024,Flood / flash flood,0,0,165,1299,97,53
+Eastern,13,Kunar,1307,Dara-e-Pech,29-04-2024,Flood / flash flood,0,0,37,409,13,24
+Capital,4,Wardak,406,Chak,29-04-2024,Flood / flash flood,0,0,5,35,5,0
+Capital,4,Wardak,407,Saydabad,29-04-2024,Flood / flash flood,0,0,10,70,10,0
+Capital,4,Wardak,401,Maydanshahr,29-04-2024,Flood / flash flood,0,0,6,42,6,0
+Eastern,13,Kunar,1307,Dara-e-Pech,29-04-2024,Flood / flash flood,0,0,7,66,4,1
+Capital,4,Wardak,403,Nerkh,29-04-2024,Flood / flash flood,0,0,12,84,10,2
+Capital,4,Wardak,409,Jaghatu,29-04-2024,Flood / flash flood,0,0,4,28,4,0
+Capital,4,Wardak,403,Nerkh,29-04-2024,Flood / flash flood,0,0,7,49,6,1
+Eastern,13,Kunar,1302,Watapur,29-04-2024,Flood / flash flood,0,0,181,1547,110,58
+Capital,4,Wardak,407,Saydabad,29-04-2024,Flood / flash flood,0,0,8,54,8,0
+Western,30,Hirat,3015,Shindand,29-04-2024,Flood / flash flood,0,0,8,45,0,0
+North Eastern,15,Badakhshan,1510,Darayem,30-04-2024,Flood / flash flood,0,0,4,28,4,0
+North Eastern,17,Kunduz,1701,Kunduz,30-04-2024,Flood / flash flood,0,0,5,35,5,0
+Western,30,Hirat,3007,Karukh,30-04-2024,Flood / flash flood,0,0,11,36,2,0
+Eastern,13,Kunar,1308,Chawkay,01-05-2024,Flood / flash flood,0,4,22,165,19,3
+Eastern,13,Kunar,1305,Marawara,01-05-2024,Flood / flash flood,0,0,12,84,12,0
+Eastern,7,Laghman,701,Mehtarlam,01-05-2024,Flood / flash flood,0,2,55,455,55,0
+Eastern,7,Laghman,701,Mehtarlam,01-05-2024,Flood / flash flood,0,0,14,98,14,0
+Eastern,7,Laghman,705,Dawlatshah,01-05-2024,Flood / flash flood,0,0,30,194,26,4
+Eastern,7,Laghman,701,Mehtarlam,01-05-2024,Flood / flash flood,0,2,50,398,50,0
+Eastern,13,Kunar,1305,Marawara,01-05-2024,Flood / flash flood,0,0,39,262,39,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,01-05-2024,Flood / flash flood,0,0,17,127,12,5
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,01-05-2024,Flood / flash flood,0,2,78,535,60,18
+Eastern,13,Kunar,1315,Nari,01-05-2024,Flood / flash flood,1,0,30,207,28,2
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,01-05-2024,Flood / flash flood,0,0,14,93,14,0
+Eastern,13,Kunar,1301,Asadabad,01-05-2024,Flood / flash flood,0,0,70,480,61,9
+Eastern,13,Kunar,1309,Khaskunar,01-05-2024,Flood / flash flood,0,0,28,189,26,2
+Eastern,13,Kunar,1314,Nurgal,01-05-2024,Flood / flash flood,2,2,14,104,10,4
+Eastern,13,Kunar,1303,Narang,01-05-2024,Flood / flash flood,0,0,12,92,11,1
+Eastern,13,Kunar,1313,Chapadara,01-05-2024,Flood / flash flood,0,0,4,34,3,1
+North Eastern,15,Badakhshan,1501,Fayzabad,01-05-2024,Flood / flash flood,0,0,11,77,7,4
+Eastern,7,Laghman,704,Alingar,01-05-2024,Flood / flash flood,0,0,5,35,5,0
+North Eastern,15,Badakhshan,1510,Darayem,01-05-2024,Flood / flash flood,0,0,6,42,0,6
+North Eastern,17,Kunduz,1706,Khanabad,01-05-2024,Flood / flash flood,0,0,6,42,6,0
+Western,21,Ghor,2101,Chaghcharan,02-05-2024,Flood / flash flood,0,0,35,342,5,11
+Western,30,Hirat,3008,Gulran,02-05-2024,Flood / flash flood,3,0,65,368,30,0
+Western,30,Hirat,3002,Injil,03-05-2024,Flood / flash flood,0,0,26,132,5,0
+Western,30,Hirat,3004,Zindajan,04-05-2024,Flood / flash flood,0,2,148,948,70,0
+Northern,28,Faryab,2806,Qaysar,05-05-2024,Flood / flash flood,0,0,1,7,1,0
+Western,30,Hirat,3003,Kushk,05-05-2024,Flood / flash flood,0,0,49,378,12,0
+North Eastern,15,Badakhshan,1506,Raghestan,05-05-2024,Flood / flash flood,0,0,60,420,24,36
+South Eastern,11,Ghazni,1101,Ghazni,05-05-2024,Flood / flash flood,0,0,12,84,12,0
+South Eastern,11,Ghazni,1113,Jaghuri,05-05-2024,Flood / flash flood,0,0,5,35,5,0
+South Eastern,11,Ghazni,1106,Dehyak,05-05-2024,Flood / flash flood,0,0,1,7,1,0
+South Eastern,11,Ghazni,1119,Nawa,05-05-2024,Flood / flash flood,0,0,3,21,3,0
+North Eastern,16,Takhar,1607,Farkhar,05-05-2024,Flood / flash flood,0,0,3,21,3,0
+North Eastern,16,Takhar,1616,Warsaj,05-05-2024,Flood / flash flood,0,0,5,35,4,1
+North Eastern,17,Kunduz,1707,Dasht-e-Archi,05-05-2024,Flood / flash flood,0,0,2,14,2,0
+North Eastern,17,Kunduz,1705,Aliabad,05-05-2024,Flood / flash flood,0,0,1,7,1,0
+North Eastern,17,Kunduz,1706,Khanabad,05-05-2024,Flood / flash flood,0,0,7,49,3,4
+North Eastern,16,Takhar,1614,Khwajaghar,05-05-2024,Flood / flash flood,0,1,4,28,4,0
+Northern,28,Faryab,2809,Bilcheragh,05-05-2024,Flood / flash flood,0,0,19,133,19,0
+South Eastern,11,Ghazni,1117,Malestan,05-05-2024,Flood / flash flood,0,0,1,7,1,0
+Western,29,Badghis,2905,Jawand,05-05-2024,Flood / flash flood,0,3,327,2645,187,140
+Northern,28,Faryab,2802,Khwajasabzposh,05-05-2024,Flood / flash flood,0,0,12,84,12,0
+Central Highland,10,Bamyan,1001,Bamyan,06-05-2024,Flood / flash flood,0,0,14,98,14,0
+Central Highland,10,Bamyan,1003,Yakawlang,06-05-2024,Flood / flash flood,0,0,2,14,2,0
+Central Highland,10,Bamyan,1003,Yakawlang,06-05-2024,Flood / flash flood,0,0,17,119,17,0
+Central Highland,10,Bamyan,1004,Panjab,06-05-2024,Flood / flash flood,0,0,4,28,4,0
+Central Highland,10,Bamyan,1007,Waras,06-05-2024,Flood / flash flood,0,0,2,14,2,0
+Western,30,Hirat,3015,Shindand,08-05-2024,Flood / flash flood,0,0,2,16,0,0
+Western,30,Hirat,3009,Ghoryan,09-05-2024,Flood / flash flood,0,0,8,56,8,0
+Western,21,Ghor,2102,Charsadra,09-05-2024,Flood / flash flood,6,0,51,395,11,16
+North Eastern,16,Takhar,1601,Taloqan,10-05-2024,Flood / flash flood,0,0,28,196,22,6
+North Eastern,16,Takhar,1607,Farkhar,10-05-2024,Flood / flash flood,4,8,200,1400,93,107
+North Eastern,15,Badakhshan,1505,Kohestan,10-05-2024,Flood / flash flood,0,0,20,140,14,6
+North Eastern,16,Takhar,1607,Farkhar,10-05-2024,Flood / flash flood,0,0,32,224,30,2
+North Eastern,15,Badakhshan,1507,Yawan,10-05-2024,Flood / flash flood,1,0,51,357,38,13
+North Eastern,15,Badakhshan,1507,Yawan,10-05-2024,Landslide / mudflow,0,0,4,28,0,4
+North Eastern,15,Badakhshan,1501,Fayzabad,10-05-2024,Flood / flash flood,0,0,43,301,20,23
+South Eastern,12,Paktya,1203,Ahmadaba,10-05-2024,Flood / flash flood,0,0,3,21,3,0
+North Eastern,15,Badakhshan,1510,Darayem,10-05-2024,Flood / flash flood,1,0,41,287,12,29
+South Eastern,12,Paktya,1201,Gardez,10-05-2024,Flood / flash flood,0,0,10,70,10,0
+North Eastern,16,Takhar,1608,Kalafgan,10-05-2024,Flood / flash flood,0,0,12,84,8,4
+South Eastern,12,Paktya,1206,Zadran,10-05-2024,Flood / flash flood,0,0,6,42,6,0
+South Eastern,12,Paktya,1210,Chamkani,10-05-2024,Flood / flash flood,0,0,5,35,5,0
+South Eastern,12,Paktya,1202,Sayedkaram,10-05-2024,Flood / flash flood,0,0,3,21,3,0
+North Eastern,16,Takhar,1605,Chal,10-05-2024,Flood / flash flood,6,9,155,1085,62,93
+North Eastern,16,Takhar,1606,Namakab,10-05-2024,Flood / flash flood,5,0,3,21,0,3
+North Eastern,9,Baghlan,901,Pul-e-Khumri,10-05-2024,Flood / flash flood,14,4,95,665,86,9
+North Eastern,9,Baghlan,904,Doshi,10-05-2024,Flood / flash flood,0,0,8,56,5,3
+Western,30,Hirat,3016,Chisht-e-Sharif,10-05-2024,Flood / flash flood,0,0,81,715,10,63
+Northern,18,Balkh,1809,Khulm,10-05-2024,Flood / flash flood,1,0,6,42,6,0
+Northern,19,Samangan,1901,Aybak,10-05-2024,Flood / flash flood,0,0,68,476,58,10
+Northern,19,Samangan,1907,Ruy-e-Duab,10-05-2024,Flood / flash flood,0,0,2,14,2,0
+Northern,19,Samangan,1906,Khuram Wa Sarbagh,10-05-2024,Flood / flash flood,1,0,37,259,22,15
+North Eastern,15,Badakhshan,1509,Teshkan,10-05-2024,Flood / flash flood,1,2,77,539,0,77
+North Eastern,15,Badakhshan,1519,Tagab,10-05-2024,Flood / flash flood,0,0,36,252,10,26
+North Eastern,15,Badakhshan,1517,Khwahan,10-05-2024,Flood / flash flood,0,0,25,175,25,0
+North Eastern,15,Badakhshan,1516,Kofab,10-05-2024,Flood / flash flood,0,0,15,105,15,0
+North Eastern,15,Badakhshan,1525,Shaki,10-05-2024,Flood / flash flood,0,0,6,42,6,0
+North Eastern,9,Baghlan,914,Guzargah-e-Nur,10-05-2024,Flood / flash flood,5,11,238,1666,0,238
+North Eastern,9,Baghlan,905,Nahrin,10-05-2024,Flood / flash flood,0,0,13,91,12,1
+North Eastern,15,Badakhshan,1515,Darwaz-e-Balla,10-05-2024,Flood / flash flood,0,0,10,70,10,0
+North Eastern,9,Baghlan,911,Pul-e- Hesar,10-05-2024,Flood / flash flood,0,0,33,231,3,28
+North Eastern,9,Baghlan,912,Dehsalah,10-05-2024,Flood / flash flood,0,0,4,28,3,1
+North Eastern,9,Baghlan,903,Dahana-e-Ghori,10-05-2024,Flood / flash flood,1,1,14,98,3,11
+North Eastern,9,Baghlan,910,Burka,10-05-2024,Flood / flash flood,59,89,560,3920,311,249
+North Eastern,9,Baghlan,906,Tala Wa Barfak,10-05-2024,Flood / flash flood,0,0,8,56,5,3
+North Eastern,9,Baghlan,902,Baghlan-e-Jadid,10-05-2024,Flood / flash flood,33,20,730,5110,486,244
+North Eastern,9,Baghlan,909,Khwajahejran,10-05-2024,Flood / flash flood,3,0,22,154,20,2
+North Eastern,15,Badakhshan,1509,Teshkan,11-05-2024,Flood / flash flood,0,0,126,882,59,67
+Northern,20,Sar-e-Pul,2003,Kohestanat,16-05-2024,Flood / flash flood,0,0,39,273,0,5
+Northern,20,Sar-e-Pul,2006,Balkhab,16-05-2024,Flood / flash flood,3,0,81,513,85,8
+North Eastern,15,Badakhshan,1501,Fayzabad,16-05-2024,Flood / flash flood,0,0,26,182,19,7
+North Eastern,9,Baghlan,909,Khwajahejran,16-05-2024,Flood / flash flood,0,0,22,154,20,2
+North Eastern,9,Baghlan,904,Doshi,16-05-2024,Flood / flash flood,0,0,15,105,0,15
+North Eastern,15,Badakhshan,1519,Tagab,17-05-2024,Flood / flash flood,0,0,24,168,14,10
+Western,30,Hirat,3007,Karukh,17-05-2024,Flood / flash flood,0,0,31,217,31,0
+Western,21,Ghor,2101,Chaghcharan,17-05-2024,Flood / flash flood,33,100,2107,16008,1192,869
+Western,21,Ghor,2105,Shahrak,17-05-2024,Flood / flash flood,0,0,1,5,0,1
+Western,21,Ghor,2104,Dawlatyar,17-05-2024,Flood / flash flood,0,0,10,101,4,6
+Western,21,Ghor,2101,Chaghcharan,17-05-2024,Flood / flash flood,0,0,169,1361,142,10
+Western,29,Badghis,2902,Muqur,17-05-2024,Flood / flash flood,0,0,1,3,0,1
+Western,29,Badghis,2903,Abkamari,17-05-2024,Flood / flash flood,0,0,43,303,28,15
+Western,29,Badghis,2904,Qadis,17-05-2024,Flood / flash flood,0,0,219,1623,177,26
+Western,29,Badghis,2906,Balamurghab,17-05-2024,Flood / flash flood,0,0,164,1205,128,29
+Western,21,Ghor,2103,DoLayna,17-05-2024,Flood / flash flood,7,5,221,2000,165,39
+Western,21,Ghor,2104,Dawlatyar,17-05-2024,Flood / flash flood,6,5,407,2849,307,76
+Western,21,Ghor,2109,Tolak,17-05-2024,Flood / flash flood,3,1,74,541,52,9
+Western,21,Ghor,2105,Shahrak,17-05-2024,Flood / flash flood,17,31,914,8796,288,148
+Western,30,Hirat,3016,Chisht-e-Sharif,17-05-2024,Flood / flash flood,0,0,13,103,13,0
+Western,29,Badghis,2901,Qala-e-Naw,17-05-2024,Flood / flash flood,0,0,2,14,0,1
+North Eastern,15,Badakhshan,1510,Darayem,17-05-2024,Flood / flash flood,0,0,71,497,36,35
+North Eastern,15,Badakhshan,1509,Teshkan,17-05-2024,Flood / flash flood,0,0,126,882,69,57
+North Eastern,9,Baghlan,912,Dehsalah,17-05-2024,Flood / flash flood,0,0,48,336,0,48
+Northern,28,Faryab,2803,Pashtunkot,17-05-2024,Flood / flash flood,2,0,42,294,29,13
+Northern,28,Faryab,2805,Almar,17-05-2024,Flood / flash flood,15,2,97,679,47,50
+Northern,28,Faryab,2809,Bilcheragh,17-05-2024,Flood / flash flood,42,16,402,2814,222,180
+Northern,28,Faryab,2806,Qaysar,18-05-2024,Flood / flash flood,3,0,83,581,53,30
+Northern,28,Faryab,2801,Maymana,18-05-2024,Flood / flash flood,0,0,84,588,64,20
+Northern,28,Faryab,2810,Dawlatabad,18-05-2024,Flood / flash flood,0,0,40,280,35,25
+Northern,19,Samangan,1905,Dara-e Suf-e-Bala,18-05-2024,Flood / flash flood,0,0,13,91,9,4
+Northern,19,Samangan,1906,Khuram Wa Sarbagh,18-05-2024,Flood / flash flood,2,0,41,287,8,33
+Northern,19,Samangan,1907,Ruy-e-Duab,18-05-2024,Flood / flash flood,0,0,12,84,3,9
+Northern,19,Samangan,1902,Hazrat-e- Sultan,18-05-2024,Flood / flash flood,0,0,16,112,4,12
+Central Highland,10,Bamyan,1001,Bamyan,19-05-2024,Flood / flash flood,0,0,14,98,14,0
+Central Highland,10,Bamyan,1002,Sayghan,19-05-2024,Flood / flash flood,0,0,2,14,2,0
+Central Highland,10,Bamyan,1001,Bamyan,19-05-2024,Flood / flash flood,0,0,2,14,2,0
+Central Highland,10,Bamyan,1003,Yakawlang,19-05-2024,Flood / flash flood,0,0,17,119,17,0
+Central Highland,10,Bamyan,1004,Panjab,19-05-2024,Flood / flash flood,0,0,4,28,4,0
+Central Highland,10,Bamyan,1007,Waras,19-05-2024,Flood / flash flood,0,0,2,14,2,0
+Central Highland,10,Bamyan,1006,Kahmard,19-05-2024,Flood / flash flood,0,0,32,224,19,7
+Northern,27,Jawzjan,2705,Fayzabad,21-05-2024,Flood / flash flood,0,0,14,87,2,12
+Northern,28,Faryab,2807,Kohestan,22-05-2024,Flood / flash flood,11,0,373,2611,222,151
+North Eastern,16,Takhar,1605,Chal,22-05-2024,Flood / flash flood,0,0,9,63,5,4
+North Eastern,16,Takhar,1616,Warsaj,22-05-2024,Flood / flash flood,0,0,5,35,1,4
+North Eastern,9,Baghlan,913,Khost Wa Fereng,22-05-2024,Flood / flash flood,1,1,62,434,21,41
+North Eastern,15,Badakhshan,1506,Raghestan,22-05-2024,Landslide / mudflow,0,0,12,84,6,6
+North Eastern,15,Badakhshan,1506,Raghestan,22-05-2024,Flood / flash flood,0,0,29,203,18,11
+North Eastern,15,Badakhshan,1512,Baharak,23-05-2024,Flood / flash flood,0,0,1,7,1,0
+Northern,28,Faryab,2812,Qaramqol,24-05-2024,Flood / flash flood,0,0,30,210,7,23
+North Eastern,15,Badakhshan,1521,Jorm,25-05-2024,Flood / flash flood,0,0,7,49,6,1
+North Eastern,15,Badakhshan,1522,Warduj,25-05-2024,Flood / flash flood,0,0,25,175,19,6
+Northern,19,Samangan,1907,Ruy-e-Duab,25-05-2024,Flood / flash flood,0,2,144,1008,63,81
+North Eastern,9,Baghlan,901,Pul-e-Khumri,25-05-2024,Flood / flash flood,0,0,285,1995,268,17
+North Eastern,9,Baghlan,904,Doshi,25-05-2024,Flood / flash flood,5,12,224,1568,44,180
+Central Highland,22,Daykundi,2206,Shahrestan,26-05-2024,Flood / flash flood,0,0,30,210,30,0
+North Eastern,15,Badakhshan,1520,Yamgan,26-05-2024,Flood / flash flood,0,0,40,280,13,27
+North Eastern,15,Badakhshan,1501,Fayzabad,26-05-2024,Flood / flash flood,10,2,20,140,12,8
+Central Highland,22,Daykundi,2208,Kajran,26-05-2024,Flood / flash flood,0,0,4,28,4,0
+Central Highland,22,Daykundi,2201,Nili,26-05-2024,Flood / flash flood,0,0,2,14,2,0
+Central Highland,22,Daykundi,2205,Gizab,26-05-2024,Flood / flash flood,0,3,14,98,14,0
+Central Highland,22,Daykundi,2203,Khadir,26-05-2024,Flood / flash flood,0,2,20,140,20,0
+Central Highland,22,Daykundi,2207,Sang-e-Takht,26-05-2024,Flood / flash flood,0,0,67,469,67,0
+Central Highland,22,Daykundi,2202,Ashtarlay,26-05-2024,Flood / flash flood,1,3,94,658,94,0
+Central Highland,22,Daykundi,2209,Miramor,26-05-2024,Flood / flash flood,0,0,66,462,65,1
+Central Highland,22,Daykundi,2204,kiti,26-05-2024,Flood / flash flood,0,0,10,70,10,0
+Northern,18,Balkh,1803,Shortepa,28-05-2024,Flood / flash flood,0,0,11,77,2,9
+North Eastern,17,Kunduz,1704,Chardarah,28-05-2024,Flood / flash flood,0,0,33,231,33,0
+North Eastern,17,Kunduz,1701,Kunduz,28-05-2024,Flood / flash flood,0,0,10,70,10,0
+North Eastern,17,Kunduz,1705,Aliabad,28-05-2024,Flood / flash flood,0,0,68,476,68,0
+North Eastern,9,Baghlan,902,Baghlan-e-Jadid,07-06-2024,Flood / flash flood,0,0,5,35,5,0
+North Eastern,15,Badakhshan,1509,Teshkan,08-06-2024,Flood / flash flood,0,0,16,112,10,6
+Eastern,7,Laghman,702,Alishang,21-06-2024,Flood / flash flood,0,0,1,8,1,0
+Eastern,7,Laghman,701,Mehtarlam,21-06-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,7,Laghman,701,Mehtarlam,21-06-2024,Flood / flash flood,0,0,2,20,1,1
+Eastern,7,Laghman,703,Qarghayi,21-06-2024,Flood / flash flood,2,0,1,5,1,0
+Eastern,7,Laghman,704,Alingar,21-06-2024,Flood / flash flood,0,0,3,27,2,1
+Eastern,7,Laghman,702,Alishang,21-06-2024,Flood / flash flood,0,0,10,92,6,4
+Eastern,7,Laghman,703,Qarghayi,21-06-2024,Flood / flash flood,0,0,1,9,1,0
+Eastern,7,Laghman,705,Dawlatshah,21-06-2024,Flood / flash flood,1,2,3,13,1,2
+Northern,28,Faryab,2809,Bilcheragh,21-06-2024,Flood / flash flood,1,0,15,105,15,0
+Capital,2,Kapisa,201,Mahmud-e-Raqi,22-06-2024,Flood / flash flood,0,0,10,70,6,4
+North Eastern,15,Badakhshan,1507,Yawan,23-06-2024,Landslide / mudflow,1,0,1,1,0,0
+Capital,8,Panjsher,807,Paryan,25-06-2024,Flood / flash flood,0,0,4,28,4,0
+Capital,8,Panjsher,803,Rukha,25-06-2024,Flood / flash flood,0,0,2,14,2,0
+Capital,8,Panjsher,805,Khenj (Hese- Awal),25-06-2024,Flood / flash flood,0,0,6,42,6,0
+Capital,8,Panjsher,806,Onaba(Anawa),25-06-2024,Flood / flash flood,0,0,5,35,5,0
+Capital,8,Panjsher,804,Dara,25-06-2024,Flood / flash flood,0,0,5,35,5,0
+Capital,8,Panjsher,807,Paryan,25-06-2024,Flood / flash flood,0,0,4,28,4,0
+Capital,8,Panjsher,803,Rukha,25-06-2024,Flood / flash flood,0,0,2,14,2,0
+Capital,8,Panjsher,805,Khenj (Hese- Awal),25-06-2024,Flood / flash flood,0,0,6,42,6,0
+Capital,8,Panjsher,806,Onaba(Anawa),25-06-2024,Flood / flash flood,0,0,5,35,5,0
+Capital,8,Panjsher,804,Dara,25-06-2024,Flood / flash flood,0,0,5,35,5,0
+North Eastern,15,Badakhshan,1519,Tagab,26-06-2024,Flood / flash flood,0,0,39,273,11,28
+North Eastern,15,Badakhshan,1520,Yamgan,26-06-2024,Flood / flash flood,2,6,20,140,9,11
+Northern,19,Samangan,1907,Ruy-e-Duab,26-06-2024,Flood / flash flood,0,0,21,147,3,18
+North Eastern,9,Baghlan,914,Guzargah-e-Nur,27-06-2024,Flood / flash flood,0,0,48,336,26,22
+North Eastern,15,Badakhshan,1513,Shuhada,28-06-2024,Flood / flash flood,0,0,2,14,0,2
+Eastern,13,Kunar,1301,Asadabad,13-07-2024,Flood / flash flood,0,0,12,140,9,0
+Eastern,13,Kunar,1307,Dara-e-Pech,13-07-2024,Flood / flash flood,0,0,4,43,2,2
+Eastern,13,Kunar,1315,Nari,13-07-2024,Flood / flash flood,0,3,44,329,30,5
+Eastern,13,Kunar,1303,Narang,13-07-2024,Flood / flash flood,0,0,54,371,33,16
+Eastern,13,Kunar,1311,Barkunar,13-07-2024,Flood / flash flood,0,0,51,350,51,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,13-07-2024,Flood / flash flood,0,0,7,70,7,0
+Eastern,13,Kunar,1310,Dangam,13-07-2024,Flood / flash flood,0,0,30,280,20,9
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,13-07-2024,Flood / flash flood,0,0,3,30,3,0
+Eastern,13,Kunar,1312,Ghaziabad,13-07-2024,Flood / flash flood,0,0,16,160,15,1
+North Eastern,15,Badakhshan,1501,Fayzabad,14-07-2024,Flood / flash flood,0,0,3,21,2,1
+North Eastern,15,Badakhshan,1521,Jorm,14-07-2024,Flood / flash flood,0,0,36,252,22,14
+Eastern,7,Laghman,705,Dawlatshah,15-07-2024,Flood / flash flood,0,0,10,76,9,1
+Eastern,7,Laghman,703,Qarghayi,15-07-2024,Flood / flash flood,0,0,1,10,1,0
+Eastern,7,Laghman,703,Qarghayi,15-07-2024,Flood / flash flood,3,0,17,127,7,7
+Eastern,7,Laghman,701,Mehtarlam,15-07-2024,Flood / flash flood,1,0,2,18,2,0
+Eastern,7,Laghman,702,Alishang,15-07-2024,Flood / flash flood,0,0,1,10,1,0
+Eastern,7,Laghman,705,Dawlatshah,15-07-2024,Flood / flash flood,0,0,2,18,2,0
+Eastern,7,Laghman,704,Alingar,15-07-2024,Flood / flash flood,1,0,4,36,0,0
+Eastern,7,Laghman,701,Mehtarlam,15-07-2024,Flood / flash flood,0,0,1,10,1,0
+Capital,2,Kapisa,202,Nejrab,15-07-2024,Flood / flash flood,0,0,4,28,3,1
+Capital,1,Kabul,109,Kalakan,15-07-2024,Flood / flash flood,0,0,5,35,5,0
+Capital,1,Kabul,113,Surobi,15-07-2024,Flood / flash flood,1,0,22,154,21,1
+Capital,3,Parwan,308,Koh-e-Safi,16-07-2024,Flood / flash flood,0,0,1,7,1,0
+Capital,3,Parwan,303,Shinwari,16-07-2024,Flood / flash flood,0,0,3,21,3,0
+Capital,2,Kapisa,202,Nejrab,16-07-2024,Flood / flash flood,0,0,40,280,38,2
+North Eastern,15,Badakhshan,1520,Yamgan,16-07-2024,Flood / flash flood,2,0,58,406,27,31
+North Eastern,15,Badakhshan,1520,Yamgan,16-07-2024,Flood / flash flood,0,0,6,42,2,4
+Capital,3,Parwan,307,Ghorband,16-07-2024,Flood / flash flood,0,0,1,7,1,0
+Capital,2,Kapisa,205,Tagab,16-07-2024,Flood / flash flood,0,0,4,28,3,1
+Capital,1,Kabul,113,Surobi,17-07-2024,Flood / flash flood,0,0,22,154,21,1
+Capital,1,Kabul,109,Kalakan,17-07-2024,Flood / flash flood,0,0,5,35,0,0
+Capital,8,Panjsher,806,Onaba(Anawa),18-07-2024,Flood / flash flood,0,0,6,42,6,0
+Capital,8,Panjsher,804,Dara,18-07-2024,Flood / flash flood,0,0,6,42,6,0
+Capital,8,Panjsher,803,Rukha,18-07-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,6,Nangarhar,621,Nazyan,23-07-2024,Flood / flash flood,0,0,8,65,5,2
+Eastern,6,Nangarhar,618,Shinwar,23-07-2024,Flood / flash flood,0,0,8,50,3,0
+Eastern,6,Nangarhar,615,Batikot,23-07-2024,Flood / flash flood,0,4,1,4,0,1
+Eastern,6,Nangarhar,609,Dara-e-Nur,23-07-2024,Flood / flash flood,0,0,16,119,13,2
+Eastern,6,Nangarhar,616,Goshta,23-07-2024,Flood / flash flood,0,2,15,133,5,10
+Eastern,6,Nangarhar,617,Achin,23-07-2024,Flood / flash flood,0,1,8,71,4,4
+Eastern,7,Laghman,702,Alishang,26-07-2024,Flood / flash flood,0,0,10,83,0,3
+Eastern,7,Laghman,701,Mehtarlam,26-07-2024,Flood / flash flood,0,0,5,40,0,2
+Eastern,7,Laghman,701,Mehtarlam,26-07-2024,Flood / flash flood,0,2,29,231,0,8
+Eastern,7,Laghman,702,Alishang,26-07-2024,Flood / flash flood,0,0,2,13,0,0
+Eastern,7,Laghman,705,Dawlatshah,26-07-2024,Flood / flash flood,0,0,5,39,0,2
+Eastern,7,Laghman,703,Qarghayi,26-07-2024,Flood / flash flood,1,0,6,47,0,3
+Eastern,7,Laghman,701,Mehtarlam,26-07-2024,Flood / flash flood,0,0,1,7,0,0
+Eastern,7,Laghman,701,Mehtarlam,26-07-2024,Flood / flash flood,0,0,5,35,5,0
+Eastern,7,Laghman,705,Dawlatshah,26-07-2024,Flood / flash flood,0,0,7,49,7,0
+Eastern,7,Laghman,704,Alingar,26-07-2024,Flood / flash flood,0,0,3,21,3,0
+Eastern,7,Laghman,703,Qarghayi,26-07-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,7,Laghman,704,Alingar,26-07-2024,Flood / flash flood,0,0,1,3,0,0
+South Eastern,25,Paktika,2508,Gomal,30-07-2024,Flood / flash flood,0,0,6,42,6,0
+South Eastern,11,Ghazni,1114,Muqur,03-08-2024,Flood / flash flood,0,0,18,126,18,0
+South Eastern,11,Ghazni,1115,Abband,03-08-2024,Flood / flash flood,0,0,3,21,3,0
+South Eastern,12,Paktya,1204,Zurmat,04-08-2024,Flood / flash flood,0,0,10,70,8,2
+South Eastern,12,Paktya,1210,Chamkani,04-08-2024,Flood / flash flood,0,0,3,21,3,0
+Southern,24,Zabul,2405,Shinkay,05-08-2024,Flood / flash flood,8,2,49,448,39,10
+Southern,33,Kandahar,3316,Maruf,13-08-2024,Flood / flash flood,0,0,24,223,154,16
+Southern,33,Kandahar,3312,Arghestan,13-08-2024,Flood / flash flood,0,0,5,50,5,0
+South Eastern,12,Paktya,1204,Zurmat,18-08-2024,Flood / flash flood,1,0,12,84,9,3
+South Eastern,11,Ghazni,1106,Dehyak,19-08-2024,Flood / flash flood,3,0,2,14,2,0
+South Eastern,25,Paktika,2502,Matakhan,19-08-2024,Flood / flash flood,0,0,7,42,7,0
+Southern,24,Zabul,2411,Nawbahar,20-08-2024,Flood / flash flood,0,0,6,43,6,0
+Eastern,6,Nangarhar,604,Khogyani,20-08-2024,Flood / flash flood,0,0,25,147,21,0
+Eastern,6,Nangarhar,605,Chaparhar,20-08-2024,Flood / flash flood,0,0,1,10,0,1
+Capital,1,Kabul,101,Kabul,20-08-2024,Flood / flash flood,0,0,63,441,63,0
+Capital,1,Kabul,101,Kabul,20-08-2024,Flood / flash flood,0,0,138,966,132,6
+Southern,24,Zabul,2402,Arghandab,20-08-2024,Flood / flash flood,1,0,4,23,4,0
+Capital,1,Kabul,101,Kabul,20-08-2024,Flood / flash flood,0,0,43,301,35,8
+Eastern,6,Nangarhar,603,Surkhrod,20-08-2024,Flood / flash flood,0,1,2,12,0,2
+Eastern,6,Nangarhar,601,Jalalabad,20-08-2024,Flood / flash flood,2,13,705,5703,453,127
+Eastern,6,Nangarhar,618,Shinwar,20-08-2024,Flood / flash flood,0,0,6,43,6,0
+Eastern,6,Nangarhar,617,Achin,20-08-2024,Flood / flash flood,0,0,25,233,22,0
+Eastern,6,Nangarhar,614,Kot,20-08-2024,Flood / flash flood,0,0,19,144,2,6
+Eastern,6,Nangarhar,613,Dehbala,20-08-2024,Flood / flash flood,0,0,1,10,0,1
+Eastern,13,Kunar,1309,Khaskunar,21-08-2024,Flood / flash flood,0,0,5,50,5,0
+Eastern,13,Kunar,1314,Nurgal,21-08-2024,Flood / flash flood,1,0,50,650,23,16
+Eastern,13,Kunar,1308,Chawkay,21-08-2024,Flood / flash flood,0,0,4,40,4,0
+Eastern,13,Kunar,1303,Narang,21-08-2024,Flood / flash flood,0,0,4,46,2,2
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,21-08-2024,Flood / flash flood,0,0,45,450,25,20
+Capital,8,Panjsher,806,Onaba(Anawa),21-08-2024,Flood / flash flood,0,0,2,14,2,0
+Capital,8,Panjsher,802,Shutul,21-08-2024,Flood / flash flood,0,0,2,14,2,0
+Capital,3,Parwan,307,Ghorband,21-08-2024,Flood / flash flood,0,0,4,28,4,0
+Capital,3,Parwan,309,Shekhali,21-08-2024,Flood / flash flood,0,0,11,77,11,0
+Eastern,7,Laghman,705,Dawlatshah,25-08-2024,Flood / flash flood,0,0,3,27,1,2
+Eastern,7,Laghman,702,Alishang,25-08-2024,Flood / flash flood,0,0,6,53,5,1
+Eastern,7,Laghman,704,Alingar,25-08-2024,Flood / flash flood,0,0,4,27,2,2
+Eastern,7,Laghman,701,Mehtarlam,25-08-2024,Flood / flash flood,1,1,51,282,36,15
+Eastern,7,Laghman,701,Mehtarlam,25-08-2024,Flood / flash flood,0,0,2,15,2,0
+Southern,23,Uruzgan,2301,Tirinkot,27-08-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,7,Laghman,705,Dawlatshah,07-09-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,7,Laghman,703,Qarghayi,07-09-2024,Flood / flash flood,0,0,6,42,5,1
+Eastern,7,Laghman,701,Mehtarlam,07-09-2024,Flood / flash flood,0,0,3,21,2,1
+Eastern,7,Laghman,704,Alingar,07-09-2024,Flood / flash flood,0,0,2,14,2,0
+Eastern,7,Laghman,702,Alishang,07-09-2024,Flood / flash flood,0,0,4,28,4,0
+Eastern,7,Laghman,703,Qarghayi,07-09-2024,Flood / flash flood,0,0,4,28,4,0
+Eastern,6,Nangarhar,603,Surkhrod,13-09-2024,Flood / flash flood,0,0,4,36,1,0
+Eastern,6,Nangarhar,601,Jalalabad,13-09-2024,Flood / flash flood,0,0,1,10,0,1
+Eastern,6,Nangarhar,610,Hesarak,13-09-2024,Flood / flash flood,1,1,11,84,10,1
+Eastern,13,Kunar,1305,Marawara,14-09-2024,Flood / flash flood,0,0,15,106,7,8
+Eastern,13,Kunar,1301,Asadabad,14-09-2024,Flood / flash flood,0,0,1,10,1,0
+Eastern,13,Kunar,1304,Sarkani,14-09-2024,Flood / flash flood,0,0,2,11,2,0
+Eastern,6,Nangarhar,617,Achin,27-09-2024,Flood / flash flood,0,0,5,41,5,0
+Eastern,6,Nangarhar,609,Dara-e-Nur,27-09-2024,Flood / flash flood,3,10,75,508,56,19
+Eastern,6,Nangarhar,603,Surkhrod,27-09-2024,Flood / flash flood,0,0,2,13,2,0
+Eastern,13,Kunar,1304,Sarkani,29-09-2024,Flood / flash flood,0,0,22,140,22,0
+Eastern,13,Kunar,1309,Khaskunar,29-09-2024,Flood / flash flood,0,0,1,7,1,0
+North Eastern,15,Badakhshan,1507,Yawan,03-10-2024,Landslide / mudflow,0,0,6,42,0,6
+Eastern,7,Laghman,704,Alingar,05-10-2024,Flood / flash flood,1,8,56,445,47,9
+Eastern,7,Laghman,702,Alishang,05-10-2024,Flood / flash flood,1,2,3,21,3,0
+Eastern,7,Laghman,705,Dawlatshah,05-10-2024,Flood / flash flood,0,0,3,21,3,0
+Eastern,7,Laghman,701,Mehtarlam,25-10-2024,Flood / flash flood,0,0,7,49,7,0
+Eastern,7,Laghman,701,Mehtarlam,25-10-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,7,Laghman,702,Alishang,25-10-2024,Flood / flash flood,0,0,2,14,2,0
+Eastern,7,Laghman,702,Alishang,25-10-2024,Flood / flash flood,0,0,9,63,9,0
+Eastern,7,Laghman,701,Mehtarlam,25-10-2024,Flood / flash flood,0,0,8,56,8,0
+Eastern,7,Laghman,703,Qarghayi,25-10-2024,Flood / flash flood,0,0,9,63,9,0
+Eastern,7,Laghman,701,Mehtarlam,25-10-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,7,Laghman,704,Alingar,25-10-2024,Flood / flash flood,0,0,6,42,6,0
+Eastern,6,Nangarhar,603,Surkhrod,26-10-2024,Flood / flash flood,0,0,4,37,3,0
+Eastern,7,Laghman,704,Alingar,11-11-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,7,Laghman,701,Mehtarlam,11-11-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,7,Laghman,701,Mehtarlam,11-11-2024,Flood / flash flood,0,0,8,56,8,0
+Eastern,7,Laghman,701,Mehtarlam,11-11-2024,Flood / flash flood,0,0,1,7,1,0
+North Eastern,16,Takhar,1616,Warsaj,15-11-2024,Flood / flash flood,0,0,4,28,3,1
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,15-11-2024,Flood / flash flood,0,0,6,67,2,4
+Eastern,13,Kunar,1302,Watapur,15-11-2024,Flood / flash flood,0,0,11,110,9,2
+North Eastern,17,Kunduz,1702,Emamsaheb,17-11-2024,Earthquake,1,1,28,196,22,6
+North Eastern,17,Kunduz,1707,Dasht-e-Archi,22-11-2024,Flood / flash flood,0,0,14,98,10,4
+North Eastern,17,Kunduz,1706,Khanabad,23-11-2024,Flood / flash flood,1,5,29,203,28,1
+Eastern,6,Nangarhar,618,Shinwar,23-11-2024,Flood / flash flood,0,0,1,8,1,0
+North Eastern,9,Baghlan,902,Baghlan-e-Jadid,23-11-2024,Flood / flash flood,0,0,19,133,19,0
+Eastern,6,Nangarhar,601,Jalalabad,23-11-2024,Flood / flash flood,0,0,1,5,1,0
+Eastern,6,Nangarhar,615,Batikot,23-11-2024,Flood / flash flood,0,0,2,16,2,0
+Northern,28,Faryab,2801,Maymana,23-11-2024,Flood / flash flood,0,0,10,70,8,2
+North Eastern,17,Kunduz,1705,Aliabad,23-11-2024,Flood / flash flood,0,0,64,448,63,1
+Northern,18,Balkh,1814,Sholgareh,23-11-2024,Flood / flash flood,0,0,97,679,85,12
+Western,29,Badghis,2905,Jawand,03-12-2024,Landslide / mudflow,0,0,10,150,0,10
+North Eastern,15,Badakhshan,1501,Fayzabad,09-12-2024,Landslide / mudflow,2,0,4,28,4,0
+Capital,8,Panjsher,807,Paryan,25-06-2024,Flood / flash flood,0,0,4,28,4,0
+Capital,8,Panjsher,806,Onaba(Anawa),25-06-2024,Flood / flash flood,0,0,5,35,5,0
+Capital,8,Panjsher,805,Khenj (Hese- Awal),25-06-2024,Flood / flash flood,0,0,6,42,6,0
+Capital,8,Panjsher,804,Dara,25-06-2024,Flood / flash flood,0,0,5,35,5,0
+Capital,8,Panjsher,805,Khenj (Hese- Awal),25-06-2024,Flood / flash flood,0,0,6,42,6,0
+Capital,8,Panjsher,803,Rukha,25-06-2024,Flood / flash flood,0,0,2,14,2,0
+Eastern,7,Laghman,704,Alingar,25-06-2024,Flood / flash flood,0,0,7,51,0,3
+Capital,8,Panjsher,803,Rukha,25-06-2024,Flood / flash flood,0,0,2,14,2,0
+Capital,8,Panjsher,806,Onaba(Anawa),25-06-2024,Flood / flash flood,0,0,5,35,5,0
+Eastern,7,Laghman,704,Alingar,26-06-2024,Flood / flash flood,0,0,4,29,0,1
+North Eastern,15,Badakhshan,1520,Yamgan,26-06-2024,Flood / flash flood,2,6,20,140,9,11
+North Eastern,15,Badakhshan,1519,Tagab,26-06-2024,Flood / flash flood,0,0,39,273,11,28
+Northern,19,Samangan,1907,Ruy-e-Duab,26-06-2024,Flood / flash flood,0,0,21,147,3,18
+North Eastern,9,Baghlan,914,Guzargah-e-Nur,27-06-2024,Flood / flash flood,0,0,48,336,26,22
+Eastern,7,Laghman,703,Qarghayi,27-06-2024,Flood / flash flood,0,0,3,24,0,1
+North Eastern,15,Badakhshan,1513,Shuhada,28-06-2024,Flood / flash flood,0,0,2,14,0,2
+Eastern,7,Laghman,701,Mehtarlam,28-06-2024,Flood / flash flood,0,0,12,77,0,2
+Eastern,7,Laghman,704,Alingar,13-07-2024,Flood / flash flood,0,0,54,371,6,38
+Eastern,7,Laghman,703,Qarghayi,13-07-2024,Flood / flash flood,0,0,3,30,0,3
+Eastern,7,Laghman,701,Mehtarlam,13-07-2024,Flood / flash flood,0,3,44,329,39,5
+Eastern,7,Laghman,705,Dawlatshah,13-07-2024,Flood / flash flood,0,0,51,350,0,51
+Eastern,7,Laghman,702,Alishang,13-07-2024,Flood / flash flood,0,0,7,49,0,7
+North Eastern,15,Badakhshan,1521,Jorm,14-07-2024,Flood / flash flood,0,0,36,252,22,14
+North Eastern,15,Badakhshan,1501,Fayzabad,14-07-2024,Flood / flash flood,0,0,3,21,2,1
+Eastern,13,Kunar,1305,Marawara,15-07-2024,Flood / flash flood,0,0,2,11,2,0
+Eastern,13,Kunar,1301,Asadabad,15-07-2024,Flood / flash flood,0,0,4,26,0,1
+Eastern,13,Kunar,1301,Asadabad,15-07-2024,Flood / flash flood,0,0,4,29,2,2
+Eastern,13,Kunar,1301,Asadabad,15-07-2024,Flood / flash flood,0,0,9,72,5,4
+Eastern,13,Kunar,1304,Sarkani,15-07-2024,Flood / flash flood,0,0,1,10,1,0
+Eastern,13,Kunar,1302,Watapur,15-07-2024,Flood / flash flood,0,0,1,10,1,0
+Eastern,13,Kunar,1305,Marawara,15-07-2024,Flood / flash flood,0,0,8,65,7,1
+Eastern,6,Nangarhar,603,Surkhrod,15-07-2024,Flood / flash flood,49,174,330,2184,292,38
+Eastern,6,Nangarhar,602,Behsud,15-07-2024,Flood / flash flood,1,11,26,213,19,3
+Capital,2,Kapisa,202,Nejrab,15-07-2024,Flood / flash flood,0,0,4,28,3,1
+Eastern,6,Nangarhar,619,Muhmand Dara,15-07-2024,Flood / flash flood,0,0,2,20,1,1
+Eastern,6,Nangarhar,616,Goshta,15-07-2024,Flood / flash flood,0,0,11,77,2,9
+Eastern,6,Nangarhar,605,Chaparhar,15-07-2024,Flood / flash flood,0,1,3,21,2,1
+Capital,1,Kabul,109,Kalakan,15-07-2024,Flood / flash flood,0,0,5,35,5,0
+Eastern,6,Nangarhar,601,Jalalabad,15-07-2024,Flood / flash flood,1,7,151,1057,108,40
+Eastern,6,Nangarhar,617,Achin,15-07-2024,Flood / flash flood,0,0,3,21,3,0
+Capital,1,Kabul,113,Surobi,15-07-2024,Flood / flash flood,1,0,22,154,21,1
+Eastern,6,Nangarhar,605,Chaparhar,15-07-2024,Flood / flash flood,0,0,1,10,1,0
+North Eastern,15,Badakhshan,1520,Yamgan,16-07-2024,Flood / flash flood,2,0,58,406,27,31
+Capital,2,Kapisa,205,Tagab,16-07-2024,Flood / flash flood,0,0,4,28,3,1
+North Eastern,15,Badakhshan,1520,Yamgan,16-07-2024,Flood / flash flood,0,0,6,42,2,4
+Capital,2,Kapisa,202,Nejrab,16-07-2024,Flood / flash flood,0,0,40,280,38,2
+Capital,3,Parwan,307,Ghorband,16-07-2024,Flood / flash flood,0,0,1,7,1,0
+Capital,3,Parwan,303,Shinwari,16-07-2024,Flood / flash flood,0,0,3,21,3,0
+Capital,3,Parwan,308,Koh-e-Safi,16-07-2024,Flood / flash flood,0,0,1,7,1,0
+Capital,1,Kabul,113,Surobi,17-07-2024,Flood / flash flood,0,0,22,154,21,1
+Capital,1,Kabul,109,Kalakan,17-07-2024,Flood / flash flood,0,0,5,35,0,0
+Capital,8,Panjsher,806,Onaba(Anawa),18-07-2024,Flood / flash flood,0,0,6,42,6,0
+Capital,8,Panjsher,804,Dara,18-07-2024,Flood / flash flood,0,0,6,42,6,0
+Capital,8,Panjsher,803,Rukha,18-07-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,6,Nangarhar,621,Nazyan,23-07-2024,Flood / flash flood,0,0,8,65,6,2
+Eastern,6,Nangarhar,617,Achin,23-07-2024,Flood / flash flood,0,1,8,71,4,4
+Eastern,6,Nangarhar,615,Batikot,23-07-2024,Flood / flash flood,0,4,1,4,0,1
+Eastern,6,Nangarhar,609,Dara-e-Nur,23-07-2024,Flood / flash flood,0,0,5,35,4,1
+Eastern,6,Nangarhar,616,Goshta,23-07-2024,Flood / flash flood,0,2,15,133,5,10
+Eastern,6,Nangarhar,618,Shinwar,23-07-2024,Flood / flash flood,0,0,8,50,3,2
+Eastern,13,Kunar,1314,Nurgal,26-07-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,13,Kunar,1303,Narang,26-07-2024,Flood / flash flood,1,0,6,47,3,3
+Eastern,13,Kunar,1311,Barkunar,26-07-2024,Flood / flash flood,0,0,1,7,0,1
+Eastern,13,Kunar,1315,Nari,26-07-2024,Flood / flash flood,0,0,3,21,0,3
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,26-07-2024,Flood / flash flood,0,0,7,49,0,7
+Eastern,13,Kunar,1305,Marawara,26-07-2024,Flood / flash flood,0,0,5,35,0,5
+Eastern,13,Kunar,1313,Chapadara,26-07-2024,Flood / flash flood,0,0,4,29,3,1
+Eastern,13,Kunar,1307,Dara-e-Pech,26-07-2024,Flood / flash flood,0,0,1,10,0,1
+Eastern,13,Kunar,1304,Sarkani,26-07-2024,Flood / flash flood,0,0,29,231,21,8
+Eastern,13,Kunar,1301,Asadabad,26-07-2024,Flood / flash flood,0,0,1,3,0,1
+Eastern,13,Kunar,1302,Watapur,26-07-2024,Flood / flash flood,0,0,2,13,2,0
+Eastern,13,Kunar,1309,Khaskunar,26-07-2024,Flood / flash flood,0,0,10,83,7,3
+Eastern,13,Kunar,1308,Chawkay,26-07-2024,Flood / flash flood,0,0,5,40,3,2
+South Eastern,25,Paktika,2508,Gomal,30-07-2024,Flood / flash flood,0,0,6,42,6,0
+South Eastern,11,Ghazni,1114,Muqur,03-08-2024,Flood / flash flood,0,0,18,126,18,0
+South Eastern,11,Ghazni,1115,Abband,03-08-2024,Flood / flash flood,0,0,3,21,3,0
+South Eastern,12,Paktya,1204,Zurmat,04-08-2024,Flood / flash flood,0,0,10,70,8,2
+South Eastern,12,Paktya,1210,Chamkani,04-08-2024,Flood / flash flood,0,0,3,21,3,0
+Southern,24,Zabul,2405,Shinkay,05-08-2024,Flood / flash flood,8,2,49,448,39,10
+Eastern,7,Laghman,701,Mehtarlam,11-08-2024,Flood / flash flood,0,0,12,140,12,0
+Eastern,7,Laghman,703,Qarghayi,11-08-2024,Flood / flash flood,0,0,4,43,2,2
+Eastern,7,Laghman,705,Dawlatshah,11-08-2024,Flood / flash flood,0,0,16,160,15,1
+Eastern,7,Laghman,704,Alingar,11-08-2024,Flood / flash flood,0,0,30,280,21,9
+Southern,33,Kandahar,3312,Arghestan,13-08-2024,Flood / flash flood,0,0,5,50,5,0
+Southern,33,Kandahar,3316,Maruf,13-08-2024,Flood / flash flood,0,0,24,223,154,16
+South Eastern,12,Paktya,1204,Zurmat,18-08-2024,Flood / flash flood,1,0,12,84,9,3
+South Eastern,25,Paktika,2502,Matakhan,19-08-2024,Flood / flash flood,0,0,7,42,7,0
+South Eastern,11,Ghazni,1106,Dehyak,19-08-2024,Flood / flash flood,3,0,2,14,2,0
+Eastern,6,Nangarhar,617,Achin,20-08-2024,Flood / flash flood,0,0,25,233,3,22
+Capital,1,Kabul,101,Kabul,20-08-2024,Flood / flash flood,0,0,63,441,63,0
+Southern,24,Zabul,2411,Nawbahar,20-08-2024,Flood / flash flood,0,0,6,43,6,0
+Eastern,6,Nangarhar,614,Kot,20-08-2024,Flood / flash flood,0,0,19,144,11,8
+Southern,24,Zabul,2402,Arghandab,20-08-2024,Flood / flash flood,1,0,4,23,4,0
+Eastern,6,Nangarhar,613,Dehbala,20-08-2024,Flood / flash flood,0,0,1,10,0,1
+Capital,1,Kabul,101,Kabul,20-08-2024,Flood / flash flood,0,0,43,301,35,8
+Capital,1,Kabul,101,Kabul,20-08-2024,Flood / flash flood,0,0,138,966,132,6
+Eastern,6,Nangarhar,603,Surkhrod,20-08-2024,Flood / flash flood,0,0,2,12,0,2
+Eastern,6,Nangarhar,604,Khogyani,20-08-2024,Flood / flash flood,0,0,25,147,21,4
+Eastern,6,Nangarhar,601,Jalalabad,20-08-2024,Flood / flash flood,3,14,651,5357,522,129
+Eastern,6,Nangarhar,605,Chaparhar,20-08-2024,Flood / flash flood,0,0,1,10,0,1
+Eastern,6,Nangarhar,618,Shinwar,20-08-2024,Flood / flash flood,0,0,6,43,0,6
+Capital,3,Parwan,307,Ghorband,21-08-2024,Flood / flash flood,0,0,4,28,4,0
+Capital,8,Panjsher,806,Onaba(Anawa),21-08-2024,Flood / flash flood,0,0,2,14,2,0
+Eastern,7,Laghman,705,Dawlatshah,21-08-2024,Flood / flash flood,0,0,4,40,4,0
+Eastern,7,Laghman,703,Qarghayi,21-08-2024,Flood / flash flood,0,0,4,46,2,2
+Capital,3,Parwan,309,Shekhali,21-08-2024,Flood / flash flood,0,0,11,77,11,0
+Capital,8,Panjsher,802,Shutul,21-08-2024,Flood / flash flood,0,0,2,14,2,0
+Eastern,7,Laghman,702,Alishang,21-08-2024,Flood / flash flood,0,0,5,50,5,0
+Eastern,7,Laghman,701,Mehtarlam,21-08-2024,Flood / flash flood,0,0,45,450,25,20
+Eastern,7,Laghman,704,Alingar,21-08-2024,Flood / flash flood,1,0,50,650,23,16
+Eastern,13,Kunar,1301,Asadabad,25-08-2024,Flood / flash flood,0,0,4,27,2,2
+Eastern,13,Kunar,1305,Marawara,25-08-2024,Flood / flash flood,0,0,6,53,5,1
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,25-08-2024,Flood / flash flood,0,0,3,27,1,2
+Eastern,13,Kunar,1302,Watapur,25-08-2024,Flood / flash flood,1,1,51,282,36,15
+Eastern,13,Kunar,1308,Chawkay,25-08-2024,Flood / flash flood,0,0,2,15,0,2
+Southern,23,Uruzgan,2301,Tirinkot,27-08-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,13,Kunar,1308,Chawkay,07-09-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,13,Kunar,1302,Watapur,07-09-2024,Flood / flash flood,0,0,3,21,2,1
+Eastern,13,Kunar,1305,Marawara,07-09-2024,Flood / flash flood,0,0,4,28,4,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,07-09-2024,Flood / flash flood,0,0,4,28,4,0
+Eastern,13,Kunar,1314,Nurgal,07-09-2024,Flood / flash flood,0,0,2,14,2,0
+Eastern,13,Kunar,1313,Chapadara,07-09-2024,Flood / flash flood,0,0,6,42,3,1
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,11-09-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,11-09-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,13,Kunar,1315,Nari,11-09-2024,Flood / flash flood,0,0,8,56,8,0
+Eastern,13,Kunar,1305,Marawara,11-09-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,6,Nangarhar,603,Surkhrod,13-09-2024,Flood / flash flood,0,0,4,36,4,0
+Eastern,6,Nangarhar,610,Hesarak,13-09-2024,Flood / flash flood,0,0,11,84,10,1
+Eastern,6,Nangarhar,601,Jalalabad,13-09-2024,Flood / flash flood,0,0,1,10,0,1
+Eastern,7,Laghman,702,Alishang,14-09-2024,Flood / flash flood,0,0,1,10,1,0
+Eastern,7,Laghman,701,Mehtarlam,14-09-2024,Flood / flash flood,0,0,2,11,2,0
+Eastern,7,Laghman,704,Alingar,14-09-2024,Flood / flash flood,0,0,15,106,7,8
+Eastern,7,Laghman,701,Mehtarlam,15-09-2024,Flood / flash flood,0,0,1,8,1,0
+Eastern,6,Nangarhar,601,Jalalabad,16-09-2024,Flood / flash flood,0,0,1,10,1,0
+Eastern,6,Nangarhar,603,Surkhrod,16-09-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,6,Nangarhar,608,Kuzkunar,27-09-2024,Flood / flash flood,3,10,75,508,56,19
+Eastern,6,Nangarhar,609,Dara-e-Nur,27-09-2024,Flood / flash flood,0,0,5,41,5,0
+Eastern,6,Nangarhar,617,Achin,27-09-2024,Flood / flash flood,0,0,2,13,2,0
+Eastern,7,Laghman,702,Alishang,29-09-2024,Flood / flash flood,0,0,1,7,0,1
+Eastern,7,Laghman,701,Mehtarlam,29-09-2024,Flood / flash flood,0,0,22,140,22,0
+North Eastern,15,Badakhshan,1507,Yawan,03-10-2024,Landslide / mudflow,0,0,6,42,0,6
+Eastern,13,Kunar,1303,Narang,05-10-2024,Flood / flash flood,1,8,56,390,45,11
+Eastern,13,Kunar,1313,Chapadara,25-10-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,13,Kunar,1303,Narang,25-10-2024,Flood / flash flood,0,0,9,63,9,0
+Eastern,13,Kunar,1314,Nurgal,25-10-2024,Flood / flash flood,0,0,8,56,8,0
+Eastern,13,Kunar,1314,Nurgal,25-10-2024,Flood / flash flood,0,0,8,56,8,0
+Eastern,13,Kunar,1309,Khaskunar,25-10-2024,Flood / flash flood,0,0,6,42,6,0
+Eastern,13,Kunar,1305,Marawara,25-10-2024,Flood / flash flood,0,0,2,14,2,0
+Eastern,13,Kunar,1301,Asadabad,25-10-2024,Flood / flash flood,0,0,7,49,7,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,25-10-2024,Flood / flash flood,0,0,9,63,9,0
+Eastern,13,Kunar,1308,Chawkay,25-10-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,6,Nangarhar,603,Surkhrod,26-10-2024,Flood / flash flood,0,0,4,37,4,0
+Eastern,13,Kunar,1315,Nari,11-11-2024,Flood / flash flood,0,0,8,56,8,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,11-11-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,13,Kunar,1306,Shigal Wa Sheltan,11-11-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,13,Kunar,1305,Marawara,11-11-2024,Flood / flash flood,0,0,1,7,1,0
+Eastern,7,Laghman,701,Mehtarlam,15-11-2024,Flood / flash flood,0,0,6,67,2,4
+Eastern,7,Laghman,704,Alingar,15-11-2024,Flood / flash flood,0,0,4,44,4,0
+Eastern,7,Laghman,704,Alingar,15-11-2024,Flood / flash flood,0,0,7,66,5,2
+North Eastern,16,Takhar,1616,Warsaj,15-11-2024,Flood / flash flood,0,0,4,28,3,1
+North Eastern,17,Kunduz,1702,Emamsaheb,17-11-2024,Earthquake,1,1,28,196,22,6
+North Eastern,17,Kunduz,1707,Dasht-e-Archi,22-11-2024,Flood / flash flood,0,0,14,98,10,4
+North Eastern,9,Baghlan,902,Baghlan-e-Jadid,23-11-2024,Flood / flash flood,0,0,19,133,19,0
+North Eastern,17,Kunduz,1706,Khanabad,23-11-2024,Flood / flash flood,1,5,29,203,28,1
+North Eastern,17,Kunduz,1705,Aliabad,23-11-2024,Flood / flash flood,0,0,64,448,63,1
+Northern,28,Faryab,2801,Maymana,23-11-2024,Flood / flash flood,0,0,10,70,8,2
+Northern,18,Balkh,1814,Sholgareh,23-11-2024,Flood / flash flood,0,0,97,679,85,12
+Eastern,6,Nangarhar,615,Batikot,23-11-2024,Flood / flash flood,0,0,1,5,1,0
+Eastern,6,Nangarhar,618,Shinwar,23-11-2024,Flood / flash flood,0,0,2,16,2,0
+Eastern,6,Nangarhar,601,Jalalabad,23-11-2024,Flood / flash flood,0,0,1,8,1,0
+North Eastern,15,Badakhshan,1501,Fayzabad,09-12-2024,Landslide / mudflow,0,0,4,28,4,0
