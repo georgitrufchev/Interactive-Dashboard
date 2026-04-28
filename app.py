@@ -26,7 +26,7 @@ data = load_data()
 data_load_state.text('Done! (using st.cache_data)')
 
 st.header('Analysing Natural Disaster Incidents Across Afghanistan')
-st.markdown('This dashboard presents key insights from the Afghanistan Natural Disaster Incidents dataset January to December 2024 sourced from the Humanitarian Data Exchange HDX. Designed for high level decision makers finance professionals and technology experts attending a global sustainability conference.')
+st.markdown('This dashboard presents key insights from the Afghanistan Natural Disaster Incidents dataset January to December 2024 sourced from the Humanitarian Data Exchange HDX.')
 
 st.sidebar.title('Dashboard Filters')
 st.sidebar.markdown('Use the filters below to explore the data.')
